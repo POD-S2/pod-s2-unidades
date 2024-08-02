@@ -1,0 +1,4228 @@
+{
+  "lonMin": -72.06548286007141,
+  "lonMax": -53.95149302844733,
+  "latMax": 54.75145663163182,
+  "latMin": 22.13722669109154,
+  "pobMin": 283,
+  "pobMax": 2281194,
+  "tasaCovidMin": 0,
+  "tasaCovidMax": 2228,
+  "deptos": [
+    {
+      "lon": -58.22692516161944,
+      "lat":   31.270517332801784,
+      "name": "Concordia",
+      "prov": "Entre Ríos",
+      "pob": 191117,
+      "tasa": 423
+    },
+    {
+      "lon": -58.46873133405118,
+      "lat":   31.562320825841155,
+      "name": "San Salvador",
+      "prov": "Entre Ríos",
+      "pob": 19804,
+      "tasa": 843
+    },
+    {
+      "lon": -59.057001041677324,
+      "lat":   31.634485318006128,
+      "name": "Villaguay",
+      "prov": "Entre Ríos",
+      "pob": 52651,
+      "tasa": 556
+    },
+    {
+      "lon": -58.36329845735071,
+      "lat":   32.00378873620944,
+      "name": "Colón",
+      "prov": "Entre Ríos",
+      "pob": 77039,
+      "tasa": 1155
+    },
+    {
+      "lon": -58.88844841025189,
+      "lat":   30.970592944372573,
+      "name": "Federal",
+      "prov": "Entre Ríos",
+      "pob": 28189,
+      "tasa": 284
+    },
+    {
+      "lon": -58.74288592502276,
+      "lat":   27.476961781405706,
+      "name": "Capital",
+      "prov": "Corrientes",
+      "pob": 410878,
+      "tasa": 189
+    },
+    {
+      "lon": -58.36751682160336,
+      "lat":   34.835783173496814,
+      "name": "Almirante Brown",
+      "prov": "Buenos Aires",
+      "pob": 597969,
+      "tasa": 673
+    },
+    {
+      "lon": -59.78122690719038,
+      "lat":   32.202377775157444,
+      "name": "Nogoyá",
+      "prov": "Entre Ríos",
+      "pob": 41304,
+      "tasa": 358
+    },
+    {
+      "lon": -58.091729853210644,
+      "lat":   27.331505413243455,
+      "name": "Itatí",
+      "prov": "Corrientes",
+      "pob": 10208,
+      "tasa": 98
+    },
+    {
+      "lon": -63.77509988477308,
+      "lat":   37.04026110863593,
+      "name": "Atreuco",
+      "prov": "La Pampa",
+      "pob": 10584,
+      "tasa": 690
+    },
+    {
+      "lon": -59.27922531105838,
+      "lat":   32.30924136195113,
+      "name": "Tala",
+      "prov": "Entre Ríos",
+      "pob": 26659,
+      "tasa": 754
+    },
+    {
+      "lon": -54.801712981157024,
+      "lat":   27.14306446663297,
+      "name": "Cainguas",
+      "prov": "Misiones",
+      "pob": 60756,
+      "tasa": 95
+    },
+    {
+      "lon": -55.38573244651607,
+      "lat":   27.625372054161613,
+      "name": "Leandro N. Alem",
+      "prov": "Misiones",
+      "pob": 49461,
+      "tasa": 71
+    },
+    {
+      "lon": -63.421331983566525,
+      "lat":   34.13937821765953,
+      "name": "Roque Sáenz Peña",
+      "prov": "Córdoba",
+      "pob": 40409,
+      "tasa": 693
+    },
+    {
+      "lon": -58.78305679835171,
+      "lat":   33.013224313616355,
+      "name": "Gualeguaychu",
+      "prov": "Entre Ríos",
+      "pob": 124231,
+      "tasa": 708
+    },
+    {
+      "lon": -57.63328327264721,
+      "lat":   27.449786296893485,
+      "name": "Berón De Astrada",
+      "prov": "Corrientes",
+      "pob": 2817,
+      "tasa": 213
+    },
+    {
+      "lon": -60.173476838231046,
+      "lat":   26.668459742310258,
+      "name": "Quitilipi",
+      "prov": "Chaco",
+      "pob": 38714,
+      "tasa": 119
+    },
+    {
+      "lon": -58.945286568637606,
+      "lat":   33.61482748671993,
+      "name": "Islas Del Ibicuy",
+      "prov": "Entre Ríos",
+      "pob": 13420,
+      "tasa": 551
+    },
+    {
+      "lon": -59.608350589796224,
+      "lat":   33.10449951397248,
+      "name": "Gualeguay",
+      "prov": "Entre Ríos",
+      "pob": 58565,
+      "tasa": 538
+    },
+    {
+      "lon": -58.15884446154682,
+      "lat":   30.72273531727971,
+      "name": "Federación",
+      "prov": "Entre Ríos",
+      "pob": 83341,
+      "tasa": 172
+    },
+    {
+      "lon": -59.4918534723304,
+      "lat":   30.879249843913755,
+      "name": "La Paz",
+      "prov": "Entre Ríos",
+      "pob": 72051,
+      "tasa": 514
+    },
+    {
+      "lon": -58.71543222984521,
+      "lat":   30.40177332274068,
+      "name": "Feliciano",
+      "prov": "Entre Ríos",
+      "pob": 16468,
+      "tasa": 170
+    },
+    {
+      "lon": -57.811078895676495,
+      "lat":   27.686261058297358,
+      "name": "General Paz",
+      "prov": "Corrientes",
+      "pob": 15730,
+      "tasa": 95
+    },
+    {
+      "lon": -59.775171538109085,
+      "lat":   27.046795919966772,
+      "name": "Presidencia De La  Plaza",
+      "prov": "Chaco",
+      "pob": 13492,
+      "tasa": 163
+    },
+    {
+      "lon": -60.225910716081096,
+      "lat":   32.77104918937555,
+      "name": "Victoria",
+      "prov": "Entre Ríos",
+      "pob": 39665,
+      "tasa": 219
+    },
+    {
+      "lon": -60.36462645040074,
+      "lat":   27.395100053124057,
+      "name": "San Lorenzo",
+      "prov": "Chaco",
+      "pob": 16012,
+      "tasa": 187
+    },
+    {
+      "lon": -65.9015993545875,
+      "lat":   28.90936101553868,
+      "name": "Capayán",
+      "prov": "Catamarca",
+      "pob": 18678,
+      "tasa": 568
+    },
+    {
+      "lon": -60.532132536350694,
+      "lat":   32.23068215642789,
+      "name": "Diamante",
+      "prov": "Entre Ríos",
+      "pob": 51384,
+      "tasa": 448
+    },
+    {
+      "lon": -54.5621210209614,
+      "lat":   26.655336594592526,
+      "name": "Montecarlo",
+      "prov": "Misiones",
+      "pob": 40209,
+      "tasa": 318
+    },
+    {
+      "lon": -58.017790081775296,
+      "lat":   35.00389735406698,
+      "name": "La Plata",
+      "prov": "Buenos Aires",
+      "pob": 713947,
+      "tasa": 684
+    },
+    {
+      "lon": -68.3284057778106,
+      "lat":   29.4496424700652,
+      "name": "Felipe Varela",
+      "prov": "La Rioja",
+      "pob": 9853,
+      "tasa": 518
+    },
+    {
+      "lon": -58.58271457161628,
+      "lat":   32.44351649145777,
+      "name": "Uruguay",
+      "prov": "Entre Ríos",
+      "pob": 113161,
+      "tasa": 635
+    },
+    {
+      "lon": -58.3984322727024,
+      "lat":   34.93023909754123,
+      "name": "Presidente Perón",
+      "prov": "Buenos Aires",
+      "pob": 105918,
+      "tasa": 703
+    },
+    {
+      "lon": -60.048868197452066,
+      "lat":   31.689115005290507,
+      "name": "Paraná",
+      "prov": "Entre Ríos",
+      "pob": 376912,
+      "tasa": 396
+    },
+    {
+      "lon": -57.782893058645165,
+      "lat":   29.044053899719987,
+      "name": "Mercedes",
+      "prov": "Corrientes",
+      "pob": 44773,
+      "tasa": 346
+    },
+    {
+      "lon": -55.67613151949051,
+      "lat":   27.887341310156597,
+      "name": "Apóstoles",
+      "prov": "Misiones",
+      "pob": 47387,
+      "tasa": 158
+    },
+    {
+      "lon": -55.58121945751796,
+      "lat":   27.457407505996667,
+      "name": "Candelaria",
+      "prov": "Misiones",
+      "pob": 32419,
+      "tasa": 96
+    },
+    {
+      "lon": -61.37376949868042,
+      "lat":   35.749686790060515,
+      "name": "Carlos Casares",
+      "prov": "Buenos Aires",
+      "pob": 23704,
+      "tasa": 477
+    },
+    {
+      "lon": -59.70385996124446,
+      "lat":   35.67668174820405,
+      "name": "Saladillo",
+      "prov": "Buenos Aires",
+      "pob": 35261,
+      "tasa": 576
+    },
+    {
+      "lon": -54.91758828099433,
+      "lat":   26.888200245637385,
+      "name": "Libertador General San Martín",
+      "prov": "Misiones",
+      "pob": 51706,
+      "tasa": 79
+    },
+    {
+      "lon": -55.85497733849038,
+      "lat":   27.55079288494955,
+      "name": "Capital",
+      "prov": "Misiones",
+      "pob": 371424,
+      "tasa": 142
+    },
+    {
+      "lon": -58.007364376945205,
+      "lat":   28.36524905044271,
+      "name": "Concepción",
+      "prov": "Corrientes",
+      "pob": 25819,
+      "tasa": 151
+    },
+    {
+      "lon": -60.68067774287934,
+      "lat":   27.257511410623323,
+      "name": "O'higgins",
+      "prov": "Chaco",
+      "pob": 21778,
+      "tasa": 133
+    },
+    {
+      "lon": -54.42264573409888,
+      "lat":   26.31667334002592,
+      "name": "El Dorado",
+      "prov": "Misiones",
+      "pob": 90484,
+      "tasa": 302
+    },
+    {
+      "lon": -58.59232106078079,
+      "lat":   28.661732983509598,
+      "name": "San Roque",
+      "prov": "Corrientes",
+      "pob": 19888,
+      "tasa": 111
+    },
+    {
+      "lon": -58.62361130028181,
+      "lat":   28.17858167219483,
+      "name": "Saladas",
+      "prov": "Corrientes",
+      "pob": 24464,
+      "tasa": 106
+    },
+    {
+      "lon": -58.18777677390064,
+      "lat":   27.970182335251845,
+      "name": "Mburucuyá",
+      "prov": "Corrientes",
+      "pob": 10071,
+      "tasa": 109
+    },
+    {
+      "lon": -58.27940220120059,
+      "lat":   27.559715827555074,
+      "name": "San Luis Del Palmar",
+      "prov": "Corrientes",
+      "pob": 19925,
+      "tasa": 196
+    },
+    {
+      "lon": -53.95149302844733,
+      "lat":   26.672162207066396,
+      "name": "San Pedro",
+      "prov": "Misiones",
+      "pob": 39137,
+      "tasa": 74
+    },
+    {
+      "lon": -56.198366023261975,
+      "lat":   28.205319049700414,
+      "name": "Santo Tomé",
+      "prov": "Corrientes",
+      "pob": 73143,
+      "tasa": 254
+    },
+    {
+      "lon": -61.92720037891304,
+      "lat":   35.88340674517935,
+      "name": "Pehuajó",
+      "prov": "Buenos Aires",
+      "pob": 41441,
+      "tasa": 871
+    },
+    {
+      "lon": -62.63462120623001,
+      "lat":   36.056460858883476,
+      "name": "Trenque Lauquen",
+      "prov": "Buenos Aires",
+      "pob": 46648,
+      "tasa": 1265
+    },
+    {
+      "lon": -58.6985311854905,
+      "lat":   35.834589477180856,
+      "name": "General Belgrano",
+      "prov": "Buenos Aires",
+      "pob": 19293,
+      "tasa": 596
+    },
+    {
+      "lon": -59.17702123413454,
+      "lat":   36.015695316633135,
+      "name": "Las Flores",
+      "prov": "Buenos Aires",
+      "pob": 24382,
+      "tasa": 734
+    },
+    {
+      "lon": -56.48338444585869,
+      "lat":   28.756659758303,
+      "name": "General Alvear",
+      "prov": "Corrientes",
+      "pob": 8128,
+      "tasa": 37
+    },
+    {
+      "lon": -56.89032066264639,
+      "lat":   28.774302687687634,
+      "name": "San Martín",
+      "prov": "Corrientes",
+      "pob": 15051,
+      "tasa": 106
+    },
+    {
+      "lon": -57.24947258745524,
+      "lat":   29.558112130645146,
+      "name": "Paso De Los Libres",
+      "prov": "Corrientes",
+      "pob": 53952,
+      "tasa": 171
+    },
+    {
+      "lon": -57.838520758767174,
+      "lat":   30.220290420099726,
+      "name": "Monte Caseros",
+      "prov": "Corrientes",
+      "pob": 41854,
+      "tasa": 375
+    },
+    {
+      "lon": -57.9957536895233,
+      "lat":   36.66588785645619,
+      "name": "General Guido",
+      "prov": "Buenos Aires",
+      "pob": 2892,
+      "tasa": 277
+    },
+    {
+      "lon": -58.28727018899455,
+      "lat":   29.689528770888007,
+      "name": "Curuzú Cuatiá",
+      "prov": "Corrientes",
+      "pob": 49862,
+      "tasa": 355
+    },
+    {
+      "lon": -58.74593943371301,
+      "lat":   29.998512091255467,
+      "name": "Sauce",
+      "prov": "Corrientes",
+      "pob": 9384,
+      "tasa": 96
+    },
+    {
+      "lon": -59.20082125639913,
+      "lat":   29.9796207101686,
+      "name": "Esquina",
+      "prov": "Corrientes",
+      "pob": 33059,
+      "tasa": 172
+    },
+    {
+      "lon": -56.790562514430604,
+      "lat":   27.894477640537353,
+      "name": "Ituzaingó",
+      "prov": "Corrientes",
+      "pob": 33661,
+      "tasa": 137
+    },
+    {
+      "lon": -60.67071884082984,
+      "lat":   36.856731891725936,
+      "name": "Olavarría",
+      "prov": "Buenos Aires",
+      "pob": 120154,
+      "tasa": 77
+    },
+    {
+      "lon": -57.40500739421089,
+      "lat":   27.84184690146134,
+      "name": "San Miguel",
+      "prov": "Corrientes",
+      "pob": 11540,
+      "tasa": 35
+    },
+    {
+      "lon": -59.24403355640159,
+      "lat":   29.45496492931301,
+      "name": "Goya",
+      "prov": "Corrientes",
+      "pob": 98213,
+      "tasa": 228
+    },
+    {
+      "lon": -58.90810312755693,
+      "lat":   28.954963792257725,
+      "name": "Lavalle",
+      "prov": "Corrientes",
+      "pob": 33609,
+      "tasa": 80
+    },
+    {
+      "lon": -58.92147817965193,
+      "lat":   28.47801799058148,
+      "name": "Bella Vista",
+      "prov": "Corrientes",
+      "pob": 41599,
+      "tasa": 38
+    },
+    {
+      "lon": -58.66855737276656,
+      "lat":   27.841919319110776,
+      "name": "Empedrado",
+      "prov": "Corrientes",
+      "pob": 16437,
+      "tasa": 152
+    },
+    {
+      "lon": -60.78800608318207,
+      "lat":   34.19256868593831,
+      "name": "Rojas",
+      "prov": "Buenos Aires",
+      "pob": 24336,
+      "tasa": 222
+    },
+    {
+      "lon": -59.51947258650391,
+      "lat":   34.220951906730264,
+      "name": "San Antonio De Areco",
+      "prov": "Buenos Aires",
+      "pob": 25251,
+      "tasa": 697
+    },
+    {
+      "lon": -57.58617852366829,
+      "lat":   36.886596663198276,
+      "name": "Maipú",
+      "prov": "Buenos Aires",
+      "pob": 10388,
+      "tasa": 501
+    },
+    {
+      "lon": -61.26521505182768,
+      "lat":   26.94556394412326,
+      "name": "9 De Julio",
+      "prov": "Chaco",
+      "pob": 32265,
+      "tasa": 149
+    },
+    {
+      "lon": -60.062937473077916,
+      "lat":   34.011207223658154,
+      "name": "Arrecifes",
+      "prov": "Buenos Aires",
+      "pob": 31328,
+      "tasa": 243
+    },
+    {
+      "lon": -61.32955743047789,
+      "lat":   27.621863534861113,
+      "name": "2 De Abril",
+      "prov": "Chaco",
+      "pob": 7888,
+      "tasa": 241
+    },
+    {
+      "lon": -59.855077343414116,
+      "lat":   34.149781341594256,
+      "name": "Capitán Sarmiento",
+      "prov": "Buenos Aires",
+      "pob": 16387,
+      "tasa": 293
+    },
+    {
+      "lon": -59.88411031003338,
+      "lat":   34.40679646796634,
+      "name": "Carmen De Areco",
+      "prov": "Buenos Aires",
+      "pob": 15560,
+      "tasa": 790
+    },
+    {
+      "lon": -56.87005735175883,
+      "lat":   37.11040430904493,
+      "name": "Pinamar",
+      "prov": "Buenos Aires",
+      "pob": 31584,
+      "tasa": 814
+    },
+    {
+      "lon": -60.30536639150863,
+      "lat":   34.27087847715806,
+      "name": "Salto",
+      "prov": "Buenos Aires",
+      "pob": 36812,
+      "tasa": 228
+    },
+    {
+      "lon": -59.15578202484671,
+      "lat":   34.295252560332436,
+      "name": "Exaltación De La Cruz",
+      "prov": "Buenos Aires",
+      "pob": 36545,
+      "tasa": 575
+    },
+    {
+      "lon": -59.82885420186396,
+      "lat":   27.659867241160477,
+      "name": "Tapenaga",
+      "prov": "Chaco",
+      "pob": 4258,
+      "tasa": 188
+    },
+    {
+      "lon": -58.770728703455504,
+      "lat":   34.32888182104766,
+      "name": "Escobar",
+      "prov": "Buenos Aires",
+      "pob": 255073,
+      "tasa": 847
+    },
+    {
+      "lon": -58.69140658451246,
+      "lat":   34.55219808809486,
+      "name": "San Miguel",
+      "prov": "Buenos Aires",
+      "pob": 304122,
+      "tasa": 666
+    },
+    {
+      "lon": -59.47322684123597,
+      "lat":   34.43792488665992,
+      "name": "San Andrés De Giles",
+      "prov": "Buenos Aires",
+      "pob": 25744,
+      "tasa": 695
+    },
+    {
+      "lon": -61.005515761942256,
+      "lat":   34.54608850508897,
+      "name": "Junín",
+      "prov": "Buenos Aires",
+      "pob": 93384,
+      "tasa": 765
+    },
+    {
+      "lon": -59.42075026720104,
+      "lat":   34.69728889823117,
+      "name": "Mercedes",
+      "prov": "Buenos Aires",
+      "pob": 67793,
+      "tasa": 704
+    },
+    {
+      "lon": -62.952593551301014,
+      "lat":   34.76853210911004,
+      "name": "General Villegas",
+      "prov": "Buenos Aires",
+      "pob": 33297,
+      "tasa": 970
+    },
+    {
+      "lon": -58.90346480517138,
+      "lat":   34.448082477264286,
+      "name": "Pilar",
+      "prov": "Buenos Aires",
+      "pob": 378167,
+      "tasa": 992
+    },
+    {
+      "lon": -59.15831249129918,
+      "lat":   34.567603329714146,
+      "name": "Luján",
+      "prov": "Buenos Aires",
+      "pob": 119805,
+      "tasa": 678
+    },
+    {
+      "lon": -58.649904798969054,
+      "lat":   34.59952749276775,
+      "name": "Hurlingham",
+      "prov": "Buenos Aires",
+      "pob": 193583,
+      "tasa": 777
+    },
+    {
+      "lon": -58.620197730668224,
+      "lat":   34.64937713738653,
+      "name": "Morón",
+      "prov": "Buenos Aires",
+      "pob": 318632,
+      "tasa": 674
+    },
+    {
+      "lon": -60.353903526711335,
+      "lat":   34.6184115036953,
+      "name": "Chacabuco",
+      "prov": "Buenos Aires",
+      "pob": 52640,
+      "tasa": 1261
+    },
+    {
+      "lon": -58.711607980882505,
+      "lat":   34.487503056775,
+      "name": "Malvinas Argentinas",
+      "prov": "Buenos Aires",
+      "pob": 359953,
+      "tasa": 745
+    },
+    {
+      "lon": -58.77777285673257,
+      "lat":   34.511497109020176,
+      "name": "José C. Paz",
+      "prov": "Buenos Aires",
+      "pob": 307443,
+      "tasa": 714
+    },
+    {
+      "lon": -58.56390983482612,
+      "lat":   34.552794501902575,
+      "name": "General San Martín",
+      "prov": "Buenos Aires",
+      "pob": 425265,
+      "tasa": 730
+    },
+    {
+      "lon": -58.81096457946645,
+      "lat":   34.610096485501295,
+      "name": "Moreno",
+      "prov": "Buenos Aires",
+      "pob": 541691,
+      "tasa": 643
+    },
+    {
+      "lon": -61.68277847809586,
+      "lat":   35.07039392805416,
+      "name": "Lincoln",
+      "prov": "Buenos Aires",
+      "pob": 42312,
+      "tasa": 577
+    },
+    {
+      "lon": -58.68856953961314,
+      "lat":   34.636684188428895,
+      "name": "Ituzaingó",
+      "prov": "Buenos Aires",
+      "pob": 180914,
+      "tasa": 841
+    },
+    {
+      "lon": -62.401362204724286,
+      "lat":   34.87391341901933,
+      "name": "Florentino Ameghino",
+      "prov": "Buenos Aires",
+      "pob": 9645,
+      "tasa": 632
+    },
+    {
+      "lon": -58.625506504162516,
+      "lat":   34.770168543509726,
+      "name": "La Matanza",
+      "prov": "Buenos Aires",
+      "pob": 2281194,
+      "tasa": 400
+    },
+    {
+      "lon": -68.63848637892077,
+      "lat":   31.54826572737934,
+      "name": "Rivadavia",
+      "prov": "San Juan",
+      "pob": 92939,
+      "tasa": 456
+    },
+    {
+      "lon": -58.988156747957,
+      "lat":   34.65043665142617,
+      "name": "General Rodríguez",
+      "prov": "Buenos Aires",
+      "pob": 109695,
+      "tasa": 793
+    },
+    {
+      "lon": -59.70348408620795,
+      "lat":   34.74865708677832,
+      "name": "Suipacha",
+      "prov": "Buenos Aires",
+      "pob": 11510,
+      "tasa": 808
+    },
+    {
+      "lon": -58.57897191846812,
+      "lat":   34.596306883794405,
+      "name": "Tres De Febrero",
+      "prov": "Buenos Aires",
+      "pob": 344067,
+      "tasa": 739
+    },
+    {
+      "lon": -58.741690722099385,
+      "lat":   34.71057896698303,
+      "name": "Merlo",
+      "prov": "Buenos Aires",
+      "pob": 606413,
+      "tasa": 590
+    },
+    {
+      "lon": -59.95864201845281,
+      "lat":   34.91564827514295,
+      "name": "Chivilcoy",
+      "prov": "Buenos Aires",
+      "pob": 68412,
+      "tasa": 797
+    },
+    {
+      "lon": -60.60427873904959,
+      "lat":   35.06109462400333,
+      "name": "Bragado",
+      "prov": "Buenos Aires",
+      "pob": 42144,
+      "tasa": 828
+    },
+    {
+      "lon": -58.395211098695576,
+      "lat":   34.70599567682273,
+      "name": "Lanús",
+      "prov": "Buenos Aires",
+      "pob": 462827,
+      "tasa": 753
+    },
+    {
+      "lon": -58.995919283820605,
+      "lat":   34.90935470257751,
+      "name": "General Las Heras",
+      "prov": "Buenos Aires",
+      "pob": 17412,
+      "tasa": 620
+    },
+    {
+      "lon": -58.8483858775657,
+      "lat":   34.813358395196445,
+      "name": "Marcos Paz",
+      "prov": "Buenos Aires",
+      "pob": 66466,
+      "tasa": 630
+    },
+    {
+      "lon": -58.42439689010687,
+      "lat":   34.755484326241316,
+      "name": "Lomas De Zamora",
+      "prov": "Buenos Aires",
+      "pob": 648312,
+      "tasa": 595
+    },
+    {
+      "lon": -61.05016370138228,
+      "lat":   34.99756132435799,
+      "name": "General Viamonte",
+      "prov": "Buenos Aires",
+      "pob": 18758,
+      "tasa": 277
+    },
+    {
+      "lon": -58.47680657665043,
+      "lat":   34.83132280617444,
+      "name": "Esteban Echeverría",
+      "prov": "Buenos Aires",
+      "pob": 370900,
+      "tasa": 800
+    },
+    {
+      "lon": -58.564951502154585,
+      "lat":   34.875795600502244,
+      "name": "Ezeiza",
+      "prov": "Buenos Aires",
+      "pob": 219031,
+      "tasa": 583
+    },
+    {
+      "lon": -60.282839611939764,
+      "lat":   35.03651543502054,
+      "name": "Alberti",
+      "prov": "Buenos Aires",
+      "pob": 10995,
+      "tasa": 1137
+    },
+    {
+      "lon": -58.258819985188765,
+      "lat":   34.878262453497115,
+      "name": "Florencio Varela",
+      "prov": "Buenos Aires",
+      "pob": 517082,
+      "tasa": 594
+    },
+    {
+      "lon": -59.429751237324325,
+      "lat":   35.03047708992164,
+      "name": "Navarro",
+      "prov": "Buenos Aires",
+      "pob": 18206,
+      "tasa": 571
+    },
+    {
+      "lon": -68.46104745520273,
+      "lat":   31.520222787999916,
+      "name": "Santa Lucia",
+      "prov": "San Juan",
+      "pob": 55304,
+      "tasa": 497
+    },
+    {
+      "lon": -58.69077637614825,
+      "lat":   35.14503581141252,
+      "name": "Cañuelas",
+      "prov": "Buenos Aires",
+      "pob": 62921,
+      "tasa": 577
+    },
+    {
+      "lon": -58.43201528538478,
+      "lat":   35.07073686889441,
+      "name": "San Vicente",
+      "prov": "Buenos Aires",
+      "pob": 77161,
+      "tasa": 654
+    },
+    {
+      "lon": -59.14573235639656,
+      "lat":   35.219392789660475,
+      "name": "Lobos",
+      "prov": "Buenos Aires",
+      "pob": 39901,
+      "tasa": 291
+    },
+    {
+      "lon": -58.17610190619447,
+      "lat":   35.22210083704621,
+      "name": "Brandsen",
+      "prov": "Buenos Aires",
+      "pob": 31023,
+      "tasa": 764
+    },
+    {
+      "lon": -62.429543566418886,
+      "lat":   35.37952005818877,
+      "name": "Carlos Tejedor",
+      "prov": "Buenos Aires",
+      "pob": 11671,
+      "tasa": 1268
+    },
+    {
+      "lon": -60.23021755568132,
+      "lat":   35.5265781388901,
+      "name": "25 De Mayo",
+      "prov": "Buenos Aires",
+      "pob": 37071,
+      "tasa": 569
+    },
+    {
+      "lon": -60.97514675651517,
+      "lat":   35.48122367476011,
+      "name": "9 De Julio",
+      "prov": "Buenos Aires",
+      "pob": 48780,
+      "tasa": 478
+    },
+    {
+      "lon": -58.38991380888512,
+      "lat":   35.46628957768047,
+      "name": "General Paz",
+      "prov": "Buenos Aires",
+      "pob": 11763,
+      "tasa": 323
+    },
+    {
+      "lon": -58.76920331317293,
+      "lat":   35.51008354992853,
+      "name": "Monte",
+      "prov": "Buenos Aires",
+      "pob": 23896,
+      "tasa": 1180
+    },
+    {
+      "lon": -59.35966393893557,
+      "lat":   35.48100290900684,
+      "name": "Roque Pérez",
+      "prov": "Buenos Aires",
+      "pob": 13863,
+      "tasa": 866
+    },
+    {
+      "lon": -60.133232315859836,
+      "lat":   36.03453645565452,
+      "name": "General Alvear",
+      "prov": "Buenos Aires",
+      "pob": 11480,
+      "tasa": 706
+    },
+    {
+      "lon": -58.2766455267673,
+      "lat":   34.735059170506425,
+      "name": "Quilmes",
+      "prov": "Buenos Aires",
+      "pob": 664783,
+      "tasa": 638
+    },
+    {
+      "lon": -58.340909077504996,
+      "lat":   36.20227343746613,
+      "name": "Pila",
+      "prov": "Buenos Aires",
+      "pob": 3966,
+      "tasa": 429
+    },
+    {
+      "lon": -61.34425815520879,
+      "lat":   37.355703350681516,
+      "name": "General La Madrid",
+      "prov": "Buenos Aires",
+      "pob": 10642,
+      "tasa": 413
+    },
+    {
+      "lon": -61.1496676279831,
+      "lat":   36.298232125540714,
+      "name": "Bolívar",
+      "prov": "Buenos Aires",
+      "pob": 35969,
+      "tasa": 2018
+    },
+    {
+      "lon": -58.2720394240529,
+      "lat":   37.7142974012491,
+      "name": "Balcarce",
+      "prov": "Buenos Aires",
+      "pob": 45691,
+      "tasa": 729
+    },
+    {
+      "lon": -58.50412068831915,
+      "lat":   34.52593528209636,
+      "name": "Vicente López",
+      "prov": "Buenos Aires",
+      "pob": 267655,
+      "tasa": 594
+    },
+    {
+      "lon": -68.53336092002901,
+      "lat":   31.522469641823715,
+      "name": "Capital",
+      "prov": "San Juan",
+      "pob": 107401,
+      "tasa": 562
+    },
+    {
+      "lon": -60.13080001494358,
+      "lat":   36.3471407253901,
+      "name": "Tapalqué",
+      "prov": "Buenos Aires",
+      "pob": 10103,
+      "tasa": 485
+    },
+    {
+      "lon": -61.660213289521415,
+      "lat":   36.25937562737092,
+      "name": "Hipólito Yrigoyen",
+      "prov": "Buenos Aires",
+      "pob": 10262,
+      "tasa": 477
+    },
+    {
+      "lon": -57.632631466081186,
+      "lat":   36.39855811056803,
+      "name": "Dolores",
+      "prov": "Buenos Aires",
+      "pob": 28714,
+      "tasa": 474
+    },
+    {
+      "lon": -58.94433806113939,
+      "lat":   36.572328449028106,
+      "name": "Rauch",
+      "prov": "Buenos Aires",
+      "pob": 16165,
+      "tasa": 1410
+    },
+    {
+      "lon": -59.69652965800755,
+      "lat":   36.78579101199741,
+      "name": "Azul",
+      "prov": "Buenos Aires",
+      "pob": 67667,
+      "tasa": 609
+    },
+    {
+      "lon": -61.8913786225096,
+      "lat":   36.64063140833603,
+      "name": "Daireaux",
+      "prov": "Buenos Aires",
+      "pob": 18204,
+      "tasa": 659
+    },
+    {
+      "lon": -62.863464400305375,
+      "lat":   36.49729174759047,
+      "name": "Tres Lomas",
+      "prov": "Buenos Aires",
+      "pob": 8837,
+      "tasa": 249
+    },
+    {
+      "lon": -58.442538590946626,
+      "lat":   37.034846581453046,
+      "name": "Ayacucho",
+      "prov": "Buenos Aires",
+      "pob": 21291,
+      "tasa": 202
+    },
+    {
+      "lon": -62.41881808791892,
+      "lat":   36.89059240850816,
+      "name": "Guaminí",
+      "prov": "Buenos Aires",
+      "pob": 12584,
+      "tasa": 111
+    },
+    {
+      "lon": -63.04907511945111,
+      "lat":   36.670983723157526,
+      "name": "Salliqueló",
+      "prov": "Buenos Aires",
+      "pob": 8810,
+      "tasa": 148
+    },
+    {
+      "lon": -57.230752445820364,
+      "lat":   37.15316476056017,
+      "name": "General Juan Madariaga",
+      "prov": "Buenos Aires",
+      "pob": 21596,
+      "tasa": 347
+    },
+    {
+      "lon": -57.97864337217359,
+      "lat":   34.84220961841954,
+      "name": "Ensenada",
+      "prov": "Buenos Aires",
+      "pob": 61783,
+      "tasa": 887
+    },
+    {
+      "lon": -58.155432576000784,
+      "lat":   34.81781993095204,
+      "name": "Berazategui",
+      "prov": "Buenos Aires",
+      "pob": 365771,
+      "tasa": 715
+    },
+    {
+      "lon": -59.18181220875198,
+      "lat":   37.33562667008032,
+      "name": "Tandil",
+      "prov": "Buenos Aires",
+      "pob": 139300,
+      "tasa": 904
+    },
+    {
+      "lon": -68.73251484836636,
+      "lat":   32.89141350487968,
+      "name": "Guaymallén",
+      "prov": "Mendoza",
+      "pob": 332468,
+      "tasa": 316
+    },
+    {
+      "lon": -61.889325287539215,
+      "lat":   37.53269652901873,
+      "name": "Coronel Suárez",
+      "prov": "Buenos Aires",
+      "pob": 40320,
+      "tasa": 536
+    },
+    {
+      "lon": -60.76806370218668,
+      "lat":   37.515607047375575,
+      "name": "Laprida",
+      "prov": "Buenos Aires",
+      "pob": 10905,
+      "tasa": 257
+    },
+    {
+      "lon": -58.341122099433015,
+      "lat":   34.67785736096987,
+      "name": "Avellaneda",
+      "prov": "Buenos Aires",
+      "pob": 356392,
+      "tasa": 757
+    },
+    {
+      "lon": -58.53758229024835,
+      "lat":   34.4866713518935,
+      "name": "San Isidro",
+      "prov": "Buenos Aires",
+      "pob": 292224,
+      "tasa": 719
+    },
+    {
+      "lon": -59.88826846136966,
+      "lat":   37.58531385435809,
+      "name": "Benito Juárez",
+      "prov": "Buenos Aires",
+      "pob": 20532,
+      "tasa": 409
+    },
+    {
+      "lon": -62.43514091307304,
+      "lat":   37.771084392661045,
+      "name": "Saavedra",
+      "prov": "Buenos Aires",
+      "pob": 21943,
+      "tasa": 907
+    },
+    {
+      "lon": -60.249122597859674,
+      "lat":   37.96425819034466,
+      "name": "Adolfo Gonzales Chaves",
+      "prov": "Buenos Aires",
+      "pob": 11922,
+      "tasa": 503
+    },
+    {
+      "lon": -61.26471929000199,
+      "lat":   38.14785079204388,
+      "name": "Coronel Pringles",
+      "prov": "Buenos Aires",
+      "pob": 22180,
+      "tasa": 126
+    },
+    {
+      "lon": -62.29056682064857,
+      "lat":   38.25582429011628,
+      "name": "Tornquist",
+      "prov": "Buenos Aires",
+      "pob": 13942,
+      "tasa": 617
+    },
+    {
+      "lon": -58.603344025201764,
+      "lat":   34.382656142876705,
+      "name": "Tigre",
+      "prov": "Buenos Aires",
+      "pob": 462998,
+      "tasa": 628
+    },
+    {
+      "lon": -62.039789605941905,
+      "lat":   34.66832134082172,
+      "name": "General Pinto",
+      "prov": "Buenos Aires",
+      "pob": 11508,
+      "tasa": 200
+    },
+    {
+      "lon": -59.586552156163755,
+      "lat":   38.388491788115104,
+      "name": "San Cayetano",
+      "prov": "Buenos Aires",
+      "pob": 8797,
+      "tasa": 512
+    },
+    {
+      "lon": -60.237461806549746,
+      "lat":   38.51162958720431,
+      "name": "Tres Arroyos",
+      "prov": "Buenos Aires",
+      "pob": 57634,
+      "tasa": 311
+    },
+    {
+      "lon": -61.83522030168906,
+      "lat":   38.84981828959337,
+      "name": "Coronel Rosales",
+      "prov": "Buenos Aires",
+      "pob": 63508,
+      "tasa": 386
+    },
+    {
+      "lon": -57.06566630879329,
+      "lat":   37.37019634897147,
+      "name": "Villa Gesell",
+      "prov": "Buenos Aires",
+      "pob": 38034,
+      "tasa": 471
+    },
+    {
+      "lon": -62.16547543301629,
+      "lat":   38.58100282396442,
+      "name": "Bahía Blanca",
+      "prov": "Buenos Aires",
+      "pob": 310095,
+      "tasa": 499
+    },
+    {
+      "lon": -61.29101573467281,
+      "lat":   38.962455572147704,
+      "name": "Monte Hermoso",
+      "prov": "Buenos Aires",
+      "pob": 7390,
+      "tasa": 108
+    },
+    {
+      "lon": -61.09539109459215,
+      "lat":   38.67061988168138,
+      "name": "Coronel Dorrego",
+      "prov": "Buenos Aires",
+      "pob": 15212,
+      "tasa": 217
+    },
+    {
+      "lon": -59.167224249423555,
+      "lat":   38.25559683649426,
+      "name": "Necochea",
+      "prov": "Buenos Aires",
+      "pob": 95995,
+      "tasa": 339
+    },
+    {
+      "lon": -58.69394585204288,
+      "lat":   38.08960016932393,
+      "name": "Lobería",
+      "prov": "Buenos Aires",
+      "pob": 18281,
+      "tasa": 613
+    },
+    {
+      "lon": -58.07230305640484,
+      "lat":   38.20291488357598,
+      "name": "General Alvarado",
+      "prov": "Buenos Aires",
+      "pob": 44149,
+      "tasa": 462
+    },
+    {
+      "lon": -57.89499584037037,
+      "lat":   35.84865831576303,
+      "name": "Lezama",
+      "prov": "Buenos Aires",
+      "pob": 5661,
+      "tasa": 530
+    },
+    {
+      "lon": -57.828109001281284,
+      "lat":   34.90926847987246,
+      "name": "Berisso",
+      "prov": "Buenos Aires",
+      "pob": 96701,
+      "tasa": 798
+    },
+    {
+      "lon": -57.74283999195477,
+      "lat":   37.96622813925754,
+      "name": "General Pueyrredón",
+      "prov": "Buenos Aires",
+      "pob": 656456,
+      "tasa": 537
+    },
+    {
+      "lon": -57.64389084563327,
+      "lat":   37.49840130875376,
+      "name": "Mar Chiquita",
+      "prov": "Buenos Aires",
+      "pob": 25344,
+      "tasa": 600
+    },
+    {
+      "lon": -56.71788292768143,
+      "lat":   36.681971758499486,
+      "name": "La Costa",
+      "prov": "Buenos Aires",
+      "pob": 78554,
+      "tasa": 750
+    },
+    {
+      "lon": -56.942185093253485,
+      "lat":   36.651858420847105,
+      "name": "General Lavalle",
+      "prov": "Buenos Aires",
+      "pob": 4459,
+      "tasa": 404
+    },
+    {
+      "lon": -57.274675708867015,
+      "lat":   36.390738985000134,
+      "name": "Tordillo",
+      "prov": "Buenos Aires",
+      "pob": 1807,
+      "tasa": 609
+    },
+    {
+      "lon": -57.657344574922334,
+      "lat":   36.04135373430941,
+      "name": "Castelli",
+      "prov": "Buenos Aires",
+      "pob": 8671,
+      "tasa": 346
+    },
+    {
+      "lon": -57.39934025275806,
+      "lat":   35.42641134204738,
+      "name": "Punta Indio",
+      "prov": "Buenos Aires",
+      "pob": 10579,
+      "tasa": 652
+    },
+    {
+      "lon": -57.68616739294204,
+      "lat":   35.184939028150765,
+      "name": "Magdalena",
+      "prov": "Buenos Aires",
+      "pob": 20613,
+      "tasa": 669
+    },
+    {
+      "lon": -58.55367811184856,
+      "lat":   34.15002115917749,
+      "name": "San Fernando",
+      "prov": "Buenos Aires",
+      "pob": 174883,
+      "tasa": 634
+    },
+    {
+      "lon": -58.883135986598106,
+      "lat":   34.1382923516619,
+      "name": "Campana",
+      "prov": "Buenos Aires",
+      "pob": 105552,
+      "tasa": 978
+    },
+    {
+      "lon": -59.49275568588418,
+      "lat":   33.93233644938853,
+      "name": "Baradero",
+      "prov": "Buenos Aires",
+      "pob": 36338,
+      "tasa": 374
+    },
+    {
+      "lon": -59.12868493356168,
+      "lat":   33.99722179229411,
+      "name": "Zárate",
+      "prov": "Buenos Aires",
+      "pob": 128096,
+      "tasa": 903
+    },
+    {
+      "lon": -59.782527705212146,
+      "lat":   33.78219681915973,
+      "name": "San Pedro",
+      "prov": "Buenos Aires",
+      "pob": 63677,
+      "tasa": 510
+    },
+    {
+      "lon": -60.05733470623711,
+      "lat":   33.587251095580584,
+      "name": "Ramallo",
+      "prov": "Buenos Aires",
+      "pob": 37761,
+      "tasa": 379
+    },
+    {
+      "lon": -60.29283301830645,
+      "lat":   33.48259697711586,
+      "name": "San Nicolás",
+      "prov": "Buenos Aires",
+      "pob": 155301,
+      "tasa": 302
+    },
+    {
+      "lon": -60.54492648366699,
+      "lat":   33.83602332192526,
+      "name": "Pergamino",
+      "prov": "Buenos Aires",
+      "pob": 110012,
+      "tasa": 669
+    },
+    {
+      "lon": -63.5594848228352,
+      "lat":   27.32860231688913,
+      "name": "Figueroa",
+      "prov": "Santiago del Estero",
+      "pob": 18529,
+      "tasa": 103
+    },
+    {
+      "lon": -61.06341820079674,
+      "lat":   33.886250388299175,
+      "name": "Colón",
+      "prov": "Buenos Aires",
+      "pob": 27078,
+      "tasa": 469
+    },
+    {
+      "lon": -63.18716385884228,
+      "lat":   28.563388436901676,
+      "name": "Avellaneda",
+      "prov": "Santiago del Estero",
+      "pob": 22952,
+      "tasa": 122
+    },
+    {
+      "lon": -64.08991227736256,
+      "lat":   26.266542172053466,
+      "name": "Pellegrini",
+      "prov": "Santiago del Estero",
+      "pob": 22156,
+      "tasa": 77
+    },
+    {
+      "lon": -63.295170583944845,
+      "lat":   28.90473682949067,
+      "name": "Salavina",
+      "prov": "Santiago del Estero",
+      "pob": 12123,
+      "tasa": 82
+    },
+    {
+      "lon": -62.32892791097086,
+      "lat":   28.58268172486943,
+      "name": "Taboada",
+      "prov": "Santiago del Estero",
+      "pob": 40522,
+      "tasa": 227
+    },
+    {
+      "lon": -62.73111254004583,
+      "lat":   26.53711863175549,
+      "name": "Alberdi",
+      "prov": "Santiago del Estero",
+      "pob": 19755,
+      "tasa": 56
+    },
+    {
+      "lon": -62.45794921996517,
+      "lat":   27.295363735351888,
+      "name": "Moreno",
+      "prov": "Santiago del Estero",
+      "pob": 38117,
+      "tasa": 31
+    },
+    {
+      "lon": -68.95810882275968,
+      "lat":   31.62485726240012,
+      "name": "Zonda",
+      "prov": "San Juan",
+      "pob": 6072,
+      "tasa": 247
+    },
+    {
+      "lon": -62.54274125954231,
+      "lat":   28.0441623212053,
+      "name": "Juan F. Ibarra",
+      "prov": "Santiago del Estero",
+      "pob": 19753,
+      "tasa": 96
+    },
+    {
+      "lon": -64.75984964390493,
+      "lat":   28.771724658468667,
+      "name": "Choya",
+      "prov": "Santiago del Estero",
+      "pob": 36486,
+      "tasa": 85
+    },
+    {
+      "lon": -66.57079955084065,
+      "lat":   32.161418907412546,
+      "name": "Ayacucho",
+      "prov": "San Luis",
+      "pob": 22030,
+      "tasa": 490
+    },
+    {
+      "lon": -62.35284683137093,
+      "lat":   29.984415997743184,
+      "name": "Rivadavia",
+      "prov": "Santiago del Estero",
+      "pob": 5230,
+      "tasa": 229
+    },
+    {
+      "lon": -64.0002517462878,
+      "lat":   29.29826086527653,
+      "name": "Ojo De Agua",
+      "prov": "Santiago del Estero",
+      "pob": 15089,
+      "tasa": 219
+    },
+    {
+      "lon": -65.81485080697516,
+      "lat":   35.36909310168718,
+      "name": "Gobernador Dupuy",
+      "prov": "San Luis",
+      "pob": 12869,
+      "tasa": 1507
+    },
+    {
+      "lon": -68.8840708968244,
+      "lat":   31.08151839716299,
+      "name": "Ullúm",
+      "prov": "San Juan",
+      "pob": 5598,
+      "tasa": 18
+    },
+    {
+      "lon": -68.12295208420515,
+      "lat":   31.182739755349065,
+      "name": "Angaco",
+      "prov": "San Juan",
+      "pob": 9186,
+      "tasa": 327
+    },
+    {
+      "lon": -68.44854171301982,
+      "lat":   31.202088891695098,
+      "name": "Albardón",
+      "prov": "San Juan",
+      "pob": 29269,
+      "tasa": 205
+    },
+    {
+      "lon": -68.52145710128117,
+      "lat":   31.47776781525882,
+      "name": "Chimbas",
+      "prov": "San Juan",
+      "pob": 106627,
+      "tasa": 277
+    },
+    {
+      "lon": -68.3893964072384,
+      "lat":   31.639461314796662,
+      "name": "Nueve De Julio",
+      "prov": "San Juan",
+      "pob": 11761,
+      "tasa": 170
+    },
+    {
+      "lon": -68.46776524370995,
+      "lat":   31.679436214745706,
+      "name": "Rawson",
+      "prov": "San Juan",
+      "pob": 126870,
+      "tasa": 303
+    },
+    {
+      "lon": -68.5825972784745,
+      "lat":   31.739286551683648,
+      "name": "Pocito",
+      "prov": "San Juan",
+      "pob": 70638,
+      "tasa": 531
+    },
+    {
+      "lon": -68.19919675688814,
+      "lat":   31.51793491069714,
+      "name": "San Martín",
+      "prov": "San Juan",
+      "pob": 12830,
+      "tasa": 701
+    },
+    {
+      "lon": -67.54295273758751,
+      "lat":   31.50390093969687,
+      "name": "Caucete",
+      "prov": "San Juan",
+      "pob": 45938,
+      "tasa": 329
+    },
+    {
+      "lon": -68.43334224294294,
+      "lat":   30.354094796619524,
+      "name": "Jáchal",
+      "prov": "San Juan",
+      "pob": 23586,
+      "tasa": 471
+    },
+    {
+      "lon": -63.7772369630045,
+      "lat":   32.29492589817697,
+      "name": "Tercero Arriba",
+      "prov": "Córdoba",
+      "pob": 121541,
+      "tasa": 283
+    },
+    {
+      "lon": -67.86302180555207,
+      "lat":   31.987970491972945,
+      "name": "25 De Mayo",
+      "prov": "San Juan",
+      "pob": 20285,
+      "tasa": 281
+    },
+    {
+      "lon": -63.6111404099016,
+      "lat":   33.34143639544093,
+      "name": "Juárez Celman",
+      "prov": "Córdoba",
+      "pob": 69812,
+      "tasa": 213
+    },
+    {
+      "lon": -65.27188811309966,
+      "lat":   24.900088907412187,
+      "name": "Capital",
+      "prov": "Salta",
+      "pob": 631058,
+      "tasa": 200
+    },
+    {
+      "lon": -66.19475581743458,
+      "lat":   25.044539042209337,
+      "name": "Cachi",
+      "prov": "Salta",
+      "pob": 7672,
+      "tasa": 574
+    },
+    {
+      "lon": -65.39820007374298,
+      "lat":   24.992332297659086,
+      "name": "Cerrillos",
+      "prov": "Salta",
+      "pob": 48658,
+      "tasa": 164
+    },
+    {
+      "lon": -65.60859896738457,
+      "lat":   25.145593440576068,
+      "name": "Chicoana",
+      "prov": "Salta",
+      "pob": 24541,
+      "tasa": 371
+    },
+    {
+      "lon": -65.5813941098709,
+      "lat":   25.43732238697293,
+      "name": "La Viña",
+      "prov": "Salta",
+      "pob": 8088,
+      "tasa": 680
+    },
+    {
+      "lon": -64.90487705895399,
+      "lat":   22.375960665097487,
+      "name": "Santa Victoria",
+      "prov": "Salta",
+      "pob": 9849,
+      "tasa": 81
+    },
+    {
+      "lon": -63.65572824737979,
+      "lat":   22.70773519854491,
+      "name": "General José De San Martín",
+      "prov": "Salta",
+      "pob": 184877,
+      "tasa": 59
+    },
+    {
+      "lon": -67.96362664116538,
+      "lat":   33.61774971641718,
+      "name": "Santa Rosa",
+      "prov": "Mendoza",
+      "pob": 17758,
+      "tasa": 496
+    },
+    {
+      "lon": -62.82994666468065,
+      "lat":   23.53062164105777,
+      "name": "Rivadavia",
+      "prov": "Salta",
+      "pob": 35109,
+      "tasa": 60
+    },
+    {
+      "lon": -64.58111677929345,
+      "lat":   25.415945550024194,
+      "name": "Metán",
+      "prov": "Salta",
+      "pob": 43714,
+      "tasa": 439
+    },
+    {
+      "lon": -65.16531768878662,
+      "lat":   26.084992004337163,
+      "name": "La Candelaria",
+      "prov": "Salta",
+      "pob": 6452,
+      "tasa": 232
+    },
+    {
+      "lon": -68.65234133852267,
+      "lat":   32.9773352867906,
+      "name": "Maipú",
+      "prov": "Mendoza",
+      "pob": 201218,
+      "tasa": 478
+    },
+    {
+      "lon": -65.43979620601738,
+      "lat":   25.713845016020226,
+      "name": "Guachipas",
+      "prov": "Salta",
+      "pob": 3288,
+      "tasa": 213
+    },
+    {
+      "lon": -68.89208812395593,
+      "lat":   32.88062327175996,
+      "name": "Capital",
+      "prov": "Mendoza",
+      "pob": 119854,
+      "tasa": 507
+    },
+    {
+      "lon": -68.88916095651591,
+      "lat":   32.92976570243416,
+      "name": "Godoy Cruz",
+      "prov": "Mendoza",
+      "pob": 206510,
+      "tasa": 472
+    },
+    {
+      "lon": -65.85967770292126,
+      "lat":   26.136436348178115,
+      "name": "Cafayate",
+      "prov": "Salta",
+      "pob": 19162,
+      "tasa": 277
+    },
+    {
+      "lon": -68.48064572897597,
+      "lat":   33.14612283917931,
+      "name": "Junín",
+      "prov": "Mendoza",
+      "pob": 42980,
+      "tasa": 598
+    },
+    {
+      "lon": -68.6122530749007,
+      "lat":   33.41958166636681,
+      "name": "Rivadavia",
+      "prov": "Mendoza",
+      "pob": 63518,
+      "tasa": 520
+    },
+    {
+      "lon": -67.08037682260279,
+      "lat":   35.21786844545098,
+      "name": "General Alvear",
+      "prov": "Mendoza",
+      "pob": 50693,
+      "tasa": 1071
+    },
+    {
+      "lon": -66.4686877368953,
+      "lat":   25.54421232140283,
+      "name": "Molinos",
+      "prov": "Salta",
+      "pob": 5958,
+      "tasa": 352
+    },
+    {
+      "lon": -66.9186255682689,
+      "lat":   28.85964606967564,
+      "name": "Castro Barros",
+      "prov": "La Rioja",
+      "pob": 4553,
+      "tasa": 198
+    },
+    {
+      "lon": -64.9664385793072,
+      "lat":   24.768365434703696,
+      "name": "General Güemes",
+      "prov": "Salta",
+      "pob": 55211,
+      "tasa": 63
+    },
+    {
+      "lon": -67.06577192517639,
+      "lat":   29.158215829185302,
+      "name": "Sanagasta",
+      "prov": "La Rioja",
+      "pob": 2665,
+      "tasa": 413
+    },
+    {
+      "lon": -66.18630669903247,
+      "lat":   25.829582367603663,
+      "name": "San Carlos",
+      "prov": "Salta",
+      "pob": 7087,
+      "tasa": 268
+    },
+    {
+      "lon": -66.05905803174123,
+      "lat":   31.00663279246551,
+      "name": "General Ortiz De Ocampo",
+      "prov": "La Rioja",
+      "pob": 7213,
+      "tasa": 527
+    },
+    {
+      "lon": -65.85407894736113,
+      "lat":   24.548067787527966,
+      "name": "Rosario De Lerma",
+      "prov": "Salta",
+      "pob": 45862,
+      "tasa": 225
+    },
+    {
+      "lon": -68.28454705275496,
+      "lat":   32.908914547071895,
+      "name": "San Martín",
+      "prov": "Mendoza",
+      "pob": 135003,
+      "tasa": 390
+    },
+    {
+      "lon": -67.24759562357745,
+      "lat":   33.71148611786497,
+      "name": "La Paz",
+      "prov": "Mendoza",
+      "pob": 10831,
+      "tasa": 268
+    },
+    {
+      "lon": -68.38239526363724,
+      "lat":   34.944614152078685,
+      "name": "San Rafael",
+      "prov": "Mendoza",
+      "pob": 213160,
+      "tasa": 434
+    },
+    {
+      "lon": -67.42774759455715,
+      "lat":   29.395950176816097,
+      "name": "Chilecito",
+      "prov": "La Rioja",
+      "pob": 59812,
+      "tasa": 261
+    },
+    {
+      "lon": -66.66300378316889,
+      "lat":   30.312796618026866,
+      "name": "Ángel Vicente Peñaloza",
+      "prov": "La Rioja",
+      "pob": 3187,
+      "tasa": 941
+    },
+    {
+      "lon": -65.93162015610935,
+      "lat":   30.577685117030217,
+      "name": "General Belgrano",
+      "prov": "La Rioja",
+      "pob": 7993,
+      "tasa": 175
+    },
+    {
+      "lon": -65.95633454697318,
+      "lat":   30.1676932793737,
+      "name": "Chamical",
+      "prov": "La Rioja",
+      "pob": 15664,
+      "tasa": 109
+    },
+    {
+      "lon": -67.33559134637865,
+      "lat":   30.114472302330086,
+      "name": "Independencia",
+      "prov": "La Rioja",
+      "pob": 2587,
+      "tasa": 77
+    },
+    {
+      "lon": -66.86820720350768,
+      "lat":   30.800920907268,
+      "name": "Juan Facundo Quiroga",
+      "prov": "La Rioja",
+      "pob": 3819,
+      "tasa": 26
+    },
+    {
+      "lon": -66.67882587163784,
+      "lat":   31.420632230214526,
+      "name": "Rosario Vera Peñaloza",
+      "prov": "La Rioja",
+      "pob": 15619,
+      "tasa": 250
+    },
+    {
+      "lon": -66.14584153965819,
+      "lat":   31.641250814921914,
+      "name": "General San Martín",
+      "prov": "La Rioja",
+      "pob": 5198,
+      "tasa": 500
+    },
+    {
+      "lon": -68.52516958190475,
+      "lat":   28.31642618292993,
+      "name": "Vinchina",
+      "prov": "La Rioja",
+      "pob": 2765,
+      "tasa": 398
+    },
+    {
+      "lon": -67.55920273776032,
+      "lat":   28.69730449835714,
+      "name": "Famatina",
+      "prov": "La Rioja",
+      "pob": 5674,
+      "tasa": 335
+    },
+    {
+      "lon": -59.26019730562958,
+      "lat":   27.351347447834787,
+      "name": "Libertad",
+      "prov": "Chaco",
+      "pob": 14685,
+      "tasa": 266
+    },
+    {
+      "lon": -67.15802202843933,
+      "lat":   28.543199707067256,
+      "name": "San Blas De Los Sauces",
+      "prov": "La Rioja",
+      "pob": 3899,
+      "tasa": 103
+    },
+    {
+      "lon": -66.71921648198195,
+      "lat":   28.533048466057313,
+      "name": "Arauco",
+      "prov": "La Rioja",
+      "pob": 18083,
+      "tasa": 951
+    },
+    {
+      "lon": -64.21160468033872,
+      "lat":   35.23004838756728,
+      "name": "Realicó",
+      "prov": "La Pampa",
+      "pob": 17986,
+      "tasa": 2035
+    },
+    {
+      "lon": -64.21164161300781,
+      "lat":   35.638073416700564,
+      "name": "Trenel",
+      "prov": "La Pampa",
+      "pob": 5325,
+      "tasa": 751
+    },
+    {
+      "lon": -66.55663187745937,
+      "lat":   36.3959118929566,
+      "name": "Chalileo",
+      "prov": "La Pampa",
+      "pob": 3680,
+      "tasa": 2228
+    },
+    {
+      "lon": -65.5179209833863,
+      "lat":   36.482463660655284,
+      "name": "Loventué",
+      "prov": "La Pampa",
+      "pob": 9131,
+      "tasa": 1150
+    },
+    {
+      "lon": -64.6828393017858,
+      "lat":   36.67036598516357,
+      "name": "Toay",
+      "prov": "La Pampa",
+      "pob": 17994,
+      "tasa": 828
+    },
+    {
+      "lon": -64.18951209148126,
+      "lat":   36.50442204935303,
+      "name": "Capital",
+      "prov": "La Pampa",
+      "pob": 119781,
+      "tasa": 950
+    },
+    {
+      "lon": -66.53649412206333,
+      "lat":   37.24608277789633,
+      "name": "Limay Mahuida",
+      "prov": "La Pampa",
+      "pob": 583,
+      "tasa": 858
+    },
+    {
+      "lon": -65.06831091838545,
+      "lat":   37.34291014345236,
+      "name": "Utracán",
+      "prov": "La Pampa",
+      "pob": 16180,
+      "tasa": 482
+    },
+    {
+      "lon": -60.65824155445351,
+      "lat":   27.743642578827842,
+      "name": "Mayor Luis Jorge Fontana",
+      "prov": "Chaco",
+      "pob": 60044,
+      "tasa": 217
+    },
+    {
+      "lon": -66.31178240660348,
+      "lat":   38.18633098666282,
+      "name": "Curacó",
+      "prov": "La Pampa",
+      "pob": 1193,
+      "tasa": 84
+    },
+    {
+      "lon": -61.300977423347405,
+      "lat":   27.866243794341568,
+      "name": "Fray Justo Sta. María De Oro",
+      "prov": "Chaco",
+      "pob": 14361,
+      "tasa": 216
+    },
+    {
+      "lon": -65.07781794404089,
+      "lat":   38.267291127358405,
+      "name": "Lihuel Calel",
+      "prov": "La Pampa",
+      "pob": 324,
+      "tasa": 0
+    },
+    {
+      "lon": -64.80141120629227,
+      "lat":   35.404969336556974,
+      "name": "Rancul",
+      "prov": "La Pampa",
+      "pob": 11111,
+      "tasa": 477
+    },
+    {
+      "lon": -64.50671036104164,
+      "lat":   36.03707783824456,
+      "name": "Conhelo",
+      "prov": "La Pampa",
+      "pob": 14191,
+      "tasa": 1663
+    },
+    {
+      "lon": -65.32009007962857,
+      "lat":   23.56019008165965,
+      "name": "Tilcara",
+      "prov": "Jujuy",
+      "pob": 15410,
+      "tasa": 227
+    },
+    {
+      "lon": -65.12649297245763,
+      "lat":   24.195316348841214,
+      "name": "Palpalá",
+      "prov": "Jujuy",
+      "pob": 59999,
+      "tasa": 235
+    },
+    {
+      "lon": -65.93478876130897,
+      "lat":   22.93908543588526,
+      "name": "Cochinoca",
+      "prov": "Jujuy",
+      "pob": 13592,
+      "tasa": 37
+    },
+    {
+      "lon": -65.6960233895935,
+      "lat":   23.743338367361268,
+      "name": "Tumbaya",
+      "prov": "Jujuy",
+      "pob": 4948,
+      "tasa": 222
+    },
+    {
+      "lon": -65.44816747938577,
+      "lat":   24.08928011054014,
+      "name": "Doctor Manuel Belgrano",
+      "prov": "Jujuy",
+      "pob": 308821,
+      "tasa": 232
+    },
+    {
+      "lon": -65.44674258938242,
+      "lat":   24.34666502187817,
+      "name": "San Antonio",
+      "prov": "Jujuy",
+      "pob": 5684,
+      "tasa": 176
+    },
+    {
+      "lon": -65.10077200177061,
+      "lat":   24.448049664170707,
+      "name": "El Carmen",
+      "prov": "Jujuy",
+      "pob": 116567,
+      "tasa": 75
+    },
+    {
+      "lon": -64.40254087150785,
+      "lat":   24.00739357739339,
+      "name": "Santa Bárbara",
+      "prov": "Jujuy",
+      "pob": 19103,
+      "tasa": 5
+    },
+    {
+      "lon": -64.82863762639008,
+      "lat":   23.78522906085488,
+      "name": "Ledesma",
+      "prov": "Jujuy",
+      "pob": 89309,
+      "tasa": 63
+    },
+    {
+      "lon": -65.40879713548262,
+      "lat":   23.082067801770037,
+      "name": "Humahuaca",
+      "prov": "Jujuy",
+      "pob": 18692,
+      "tasa": 80
+    },
+    {
+      "lon": -65.56722094542098,
+      "lat":   22.290212037994717,
+      "name": "Yavi",
+      "prov": "Jujuy",
+      "pob": 24645,
+      "tasa": 41
+    },
+    {
+      "lon": -66.22763793466224,
+      "lat":   22.13722669109154,
+      "name": "Santa Catalina",
+      "prov": "Jujuy",
+      "pob": 2619,
+      "tasa": 76
+    },
+    {
+      "lon": -64.811298227572,
+      "lat":   24.29845314429626,
+      "name": "San Pedro",
+      "prov": "Jujuy",
+      "pob": 81843,
+      "tasa": 27
+    },
+    {
+      "lon": -61.474836400698955,
+      "lat":   27.336205421933222,
+      "name": "12 De Octubre",
+      "prov": "Chaco",
+      "pob": 26309,
+      "tasa": 277
+    },
+    {
+      "lon": -65.01176978591722,
+      "lat":   23.46723336940392,
+      "name": "Valle Grande",
+      "prov": "Jujuy",
+      "pob": 2619,
+      "tasa": 382
+    },
+    {
+      "lon": -66.54199223405635,
+      "lat":   22.621339240567252,
+      "name": "Rinconada",
+      "prov": "Jujuy",
+      "pob": 2903,
+      "tasa": 34
+    },
+    {
+      "lon": -61.308873014460154,
+      "lat":   27.117926474608858,
+      "name": "Chacabuco",
+      "prov": "Chaco",
+      "pob": 36066,
+      "tasa": 47
+    },
+    {
+      "lon": -62.138514759774694,
+      "lat":   23.118832396804212,
+      "name": "Ramón Lista",
+      "prov": "Formosa",
+      "pob": 17009,
+      "tasa": 12
+    },
+    {
+      "lon": -58.06300579798955,
+      "lat":   25.36955853693339,
+      "name": "Pilcomayo",
+      "prov": "Formosa",
+      "pob": 96978,
+      "tasa": 331
+    },
+    {
+      "lon": -58.377585565528825,
+      "lat":   25.9399029537307,
+      "name": "Formosa",
+      "prov": "Formosa",
+      "pob": 271381,
+      "tasa": 400
+    },
+    {
+      "lon": -65.83657180590238,
+      "lat":   28.41006540987707,
+      "name": "Capital",
+      "prov": "Catamarca",
+      "pob": 183406,
+      "tasa": 487
+    },
+    {
+      "lon": -65.50374879106865,
+      "lat":   28.926435481079324,
+      "name": "Ancasti",
+      "prov": "Catamarca",
+      "pob": 2916,
+      "tasa": 69
+    },
+    {
+      "lon": -66.92228752544256,
+      "lat":   27.100095836564357,
+      "name": "Belén",
+      "prov": "Catamarca",
+      "pob": 31399,
+      "tasa": 229
+    },
+    {
+      "lon": -66.26201392796018,
+      "lat":   26.785951141768503,
+      "name": "Santa María",
+      "prov": "Catamarca",
+      "pob": 24050,
+      "tasa": 179
+    },
+    {
+      "lon": -66.35568840442863,
+      "lat":   27.544592227118898,
+      "name": "Andalgalá",
+      "prov": "Catamarca",
+      "pob": 19976,
+      "tasa": 936
+    },
+    {
+      "lon": -65.92236189373016,
+      "lat":   28.01864035814259,
+      "name": "Ambato",
+      "prov": "Catamarca",
+      "pob": 4634,
+      "tasa": 173
+    },
+    {
+      "lon": -65.67377555696005,
+      "lat":   28.110535010957314,
+      "name": "Paclin",
+      "prov": "Catamarca",
+      "pob": 4307,
+      "tasa": 418
+    },
+    {
+      "lon": -65.33495979841008,
+      "lat":   28.081605785510508,
+      "name": "Santa Rosa",
+      "prov": "Catamarca",
+      "pob": 14165,
+      "tasa": 304
+    },
+    {
+      "lon": -65.35986296665466,
+      "lat":   28.430334545617573,
+      "name": "El Alto",
+      "prov": "Catamarca",
+      "pob": 3903,
+      "tasa": 51
+    },
+    {
+      "lon": -64.13180593984268,
+      "lat":   29.77137737674649,
+      "name": "Sobremonte",
+      "prov": "Córdoba",
+      "pob": 5063,
+      "tasa": 0
+    },
+    {
+      "lon": -65.19199066901639,
+      "lat":   29.395322332612697,
+      "name": "La Paz",
+      "prov": "Catamarca",
+      "pob": 25209,
+      "tasa": 274
+    },
+    {
+      "lon": -66.40740792822794,
+      "lat":   28.20583985231293,
+      "name": "Pomán",
+      "prov": "Catamarca",
+      "pob": 12439,
+      "tasa": 305
+    },
+    {
+      "lon": -67.90094684844597,
+      "lat":   54.029263995614144,
+      "name": "Río Grande Y Tolhuin",
+      "prov": "Tierra del Fuego",
+      "pob": 95889,
+      "tasa": 460
+    },
+    {
+      "lon": -67.24005025479558,
+      "lat":   43.81377838178822,
+      "name": "Mártires",
+      "prov": "Chubut",
+      "pob": 715,
+      "tasa": 280
+    },
+    {
+      "lon": -68.68571603366293,
+      "lat":   44.029892897564544,
+      "name": "Paso De Los Indios",
+      "prov": "Chubut",
+      "pob": 1809,
+      "tasa": 55
+    },
+    {
+      "lon": -68.46802915904962,
+      "lat":   48.83810847968928,
+      "name": "Magallanes",
+      "prov": "Santa Cruz",
+      "pob": 12395,
+      "tasa": 1089
+    },
+    {
+      "lon": -59.51956898750824,
+      "lat":   26.801701264948015,
+      "name": "Sargento Cabral",
+      "prov": "Chaco",
+      "pob": 17914,
+      "tasa": 128
+    },
+    {
+      "lon": -60.4619167125297,
+      "lat":   26.787173590121565,
+      "name": "Comandante Fernández",
+      "prov": "Chaco",
+      "pob": 114419,
+      "tasa": 227
+    },
+    {
+      "lon": -60.757010610097524,
+      "lat":   26.736934588153165,
+      "name": "Independencia",
+      "prov": "Chaco",
+      "pob": 26014,
+      "tasa": 65
+    },
+    {
+      "lon": -69.44688115721085,
+      "lat":   49.94749188519625,
+      "name": "Corpen Aike",
+      "prov": "Santa Cruz",
+      "pob": 14869,
+      "tasa": 1836
+    },
+    {
+      "lon": -68.02963500161822,
+      "lat":   47.33065773786631,
+      "name": "Deseado",
+      "prov": "Santa Cruz",
+      "pob": 148968,
+      "tasa": 244
+    },
+    {
+      "lon": -64.3046951629241,
+      "lat":   40.14869709560695,
+      "name": "Conesa",
+      "prov": "Río Negro",
+      "pob": 8221,
+      "tasa": 195
+    },
+    {
+      "lon": -70.34830835543013,
+      "lat":   43.32341532875751,
+      "name": "Languiñeo",
+      "prov": "Chubut",
+      "pob": 3127,
+      "tasa": 64
+    },
+    {
+      "lon": -66.1721286627772,
+      "lat":   43.27277489570111,
+      "name": "Gaiman",
+      "prov": "Chubut",
+      "pob": 12904,
+      "tasa": 186
+    },
+    {
+      "lon": -61.07204509223284,
+      "lat":   26.849498114340026,
+      "name": "General Belgrano",
+      "prov": "Chaco",
+      "pob": 14741,
+      "tasa": 102
+    },
+    {
+      "lon": -59.34754267526533,
+      "lat":   27.14085386296818,
+      "name": "General Donovan",
+      "prov": "Chaco",
+      "pob": 14311,
+      "tasa": 42
+    },
+    {
+      "lon": -65.07433450722193,
+      "lat":   43.13713118742603,
+      "name": "Rawson",
+      "prov": "Chubut",
+      "pob": 144869,
+      "tasa": 167
+    },
+    {
+      "lon": -70.57683538520133,
+      "lat":   44.200013513224455,
+      "name": "Tehuelches",
+      "prov": "Chubut",
+      "pob": 5516,
+      "tasa": 1595
+    },
+    {
+      "lon": -67.70815095468532,
+      "lat":   45.28295201447055,
+      "name": "Escalante",
+      "prov": "Chubut",
+      "pob": 234397,
+      "tasa": 392
+    },
+    {
+      "lon": -66.12908065360824,
+      "lat":   44.42287238423097,
+      "name": "F. Ameghino",
+      "prov": "Chubut",
+      "pob": 1785,
+      "tasa": 0
+    },
+    {
+      "lon": -60.01882710274409,
+      "lat":   26.819129576924414,
+      "name": "25 De Mayo",
+      "prov": "Chaco",
+      "pob": 32317,
+      "tasa": 62
+    },
+    {
+      "lon": -68.69775873023094,
+      "lat":   28.790417024397616,
+      "name": "General Lamadrid",
+      "prov": "La Rioja",
+      "pob": 1846,
+      "tasa": 163
+    },
+    {
+      "lon": -69.83570368113433,
+      "lat":   31.458435520566667,
+      "name": "Calingasta",
+      "prov": "San Juan",
+      "pob": 9503,
+      "tasa": 505
+    },
+    {
+      "lon": -60.455332348366426,
+      "lat":   26.32101999408883,
+      "name": "Maipú",
+      "prov": "Chaco",
+      "pob": 27136,
+      "tasa": 125
+    },
+    {
+      "lon": -58.95960909000164,
+      "lat":   27.168902184161936,
+      "name": "Primero De Mayo",
+      "prov": "Chaco",
+      "pob": 12515,
+      "tasa": 487
+    },
+    {
+      "lon": -63.83205727636036,
+      "lat":   30.21134431174316,
+      "name": "Tulumba",
+      "prov": "Córdoba",
+      "pob": 14108,
+      "tasa": 376
+    },
+    {
+      "lon": -64.59835652757445,
+      "lat":   30.39936999683621,
+      "name": "Ischilín",
+      "prov": "Córdoba",
+      "pob": 36276,
+      "tasa": 80
+    },
+    {
+      "lon": -63.983859934969985,
+      "lat":   30.72800891000807,
+      "name": "Totoral",
+      "prov": "Córdoba",
+      "pob": 21686,
+      "tasa": 503
+    },
+    {
+      "lon": -65.07354707052538,
+      "lat":   30.6469282468763,
+      "name": "Cruz Del Eje",
+      "prov": "Córdoba",
+      "pob": 68656,
+      "tasa": 323
+    },
+    {
+      "lon": -64.1500505017374,
+      "lat":   31.149340225998365,
+      "name": "Colón",
+      "prov": "Córdoba",
+      "pob": 301889,
+      "tasa": 452
+    },
+    {
+      "lon": -64.59103341439528,
+      "lat":   31.22054301338742,
+      "name": "Punilla",
+      "prov": "Córdoba",
+      "pob": 213136,
+      "tasa": 590
+    },
+    {
+      "lon": -64.1824465185468,
+      "lat":   31.414133905587708,
+      "name": "Capital",
+      "prov": "Córdoba",
+      "pob": 1453684,
+      "tasa": 532
+    },
+    {
+      "lon": -63.2572264826871,
+      "lat":   32.52499477195977,
+      "name": "General San Martín",
+      "prov": "Córdoba",
+      "pob": 144441,
+      "tasa": 639
+    },
+    {
+      "lon": -64.30395554014589,
+      "lat":   31.71069091313861,
+      "name": "Santa María",
+      "prov": "Córdoba",
+      "pob": 119033,
+      "tasa": 424
+    },
+    {
+      "lon": -65.41203619954283,
+      "lat":   31.0185343644454,
+      "name": "Minas",
+      "prov": "Córdoba",
+      "pob": 5075,
+      "tasa": 650
+    },
+    {
+      "lon": -65.43574730582628,
+      "lat":   31.451816055364404,
+      "name": "Pocho",
+      "prov": "Córdoba",
+      "pob": 5778,
+      "tasa": 69
+    },
+    {
+      "lon": -65.15854186845071,
+      "lat":   31.707961893354906,
+      "name": "San Alberto",
+      "prov": "Córdoba",
+      "pob": 43908,
+      "tasa": 599
+    },
+    {
+      "lon": -65.14340550098642,
+      "lat":   32.070331470948524,
+      "name": "San Javier",
+      "prov": "Córdoba",
+      "pob": 60165,
+      "tasa": 404
+    },
+    {
+      "lon": -63.48361583152426,
+      "lat":   31.73976971842691,
+      "name": "Río Segundo",
+      "prov": "Córdoba",
+      "pob": 116106,
+      "tasa": 299
+    },
+    {
+      "lon": -62.53419790130797,
+      "lat":   31.24412551325433,
+      "name": "San Justo",
+      "prov": "Córdoba",
+      "pob": 228501,
+      "tasa": 729
+    },
+    {
+      "lon": -62.79912818342602,
+      "lat":   32.892579121357834,
+      "name": "Unión",
+      "prov": "Córdoba",
+      "pob": 117925,
+      "tasa": 572
+    },
+    {
+      "lon": -63.441420404937446,
+      "lat":   31.034817777817054,
+      "name": "Río Primero",
+      "prov": "Córdoba",
+      "pob": 53832,
+      "tasa": 583
+    },
+    {
+      "lon": -62.280394629095746,
+      "lat":   33.02888048289972,
+      "name": "Marcos Juárez",
+      "prov": "Córdoba",
+      "pob": 115019,
+      "tasa": 593
+    },
+    {
+      "lon": -64.49463162417773,
+      "lat":   33.32874936604791,
+      "name": "Río Cuarto",
+      "prov": "Córdoba",
+      "pob": 277775,
+      "tasa": 275
+    },
+    {
+      "lon": -67.67777261995103,
+      "lat":   25.945502679037258,
+      "name": "Antofagasta De La Sierra",
+      "prov": "Catamarca",
+      "pob": 1653,
+      "tasa": 1028
+    },
+    {
+      "lon": -67.92918758057374,
+      "lat":   27.540391076678528,
+      "name": "Tinogasta",
+      "prov": "Catamarca",
+      "pob": 23301,
+      "tasa": 47
+    },
+    {
+      "lon": -64.37635335720255,
+      "lat":   34.61482801046782,
+      "name": "General Roca",
+      "prov": "Córdoba",
+      "pob": 40626,
+      "tasa": 394
+    },
+    {
+      "lon": -61.61297654227789,
+      "lat":   34.49795341581547,
+      "name": "Leandro N. Alem",
+      "prov": "Buenos Aires",
+      "pob": 17442,
+      "tasa": 877
+    },
+    {
+      "lon": -69.30205951592954,
+      "lat":   33.291538374250074,
+      "name": "Tupungato",
+      "prov": "Mendoza",
+      "pob": 38885,
+      "tasa": 548
+    },
+    {
+      "lon": -69.5076929581155,
+      "lat":   33.622242791192896,
+      "name": "Tunuyán",
+      "prov": "Mendoza",
+      "pob": 60416,
+      "tasa": 530
+    },
+    {
+      "lon": -69.44332303325129,
+      "lat":   33.038204328015034,
+      "name": "Luján De Cuyo",
+      "prov": "Mendoza",
+      "pob": 143320,
+      "tasa": 583
+    },
+    {
+      "lon": -71.45521851987317,
+      "lat":   43.070549424466286,
+      "name": "Futaleufú",
+      "prov": "Chubut",
+      "pob": 48976,
+      "tasa": 559
+    },
+    {
+      "lon": -71.11376864050139,
+      "lat":   48.287267311335526,
+      "name": "Río Chico",
+      "prov": "Santa Cruz",
+      "pob": 7805,
+      "tasa": 717
+    },
+    {
+      "lon": -72.06548286007141,
+      "lat":   49.8364259671241,
+      "name": "Lago Argentino",
+      "prov": "Santa Cruz",
+      "pob": 30540,
+      "tasa": 1172
+    },
+    {
+      "lon": -55.166041545422274,
+      "lat":   27.774017489865443,
+      "name": "San Javier",
+      "prov": "Misiones",
+      "pob": 22971,
+      "tasa": 48
+    },
+    {
+      "lon": -55.46526329992778,
+      "lat":   27.92906729069507,
+      "name": "Concepción De La Sierra",
+      "prov": "Misiones",
+      "pob": 10275,
+      "tasa": 10
+    },
+    {
+      "lon": -54.26724213170369,
+      "lat":   27.02651920491533,
+      "name": "Guaraní",
+      "prov": "Misiones",
+      "pob": 79553,
+      "tasa": 104
+    },
+    {
+      "lon": -61.283867071861245,
+      "lat":   34.23744800427654,
+      "name": "General Arenales",
+      "prov": "Buenos Aires",
+      "pob": 15061,
+      "tasa": 193
+    },
+    {
+      "lon": -54.63487220845784,
+      "lat":   27.3764035101482,
+      "name": "25 De Mayo",
+      "prov": "Misiones",
+      "pob": 28916,
+      "tasa": 52
+    },
+    {
+      "lon": -55.06923302813866,
+      "lat":   27.471873087568653,
+      "name": "Oberá",
+      "prov": "Misiones",
+      "pob": 121727,
+      "tasa": 93
+    },
+    {
+      "lon": -53.966949958859516,
+      "lat":   26.00740536076971,
+      "name": "General Manuel Belgrano",
+      "prov": "Misiones",
+      "pob": 53354,
+      "tasa": 52
+    },
+    {
+      "lon": -55.33799861328448,
+      "lat":   27.173353109381676,
+      "name": "San Ignacio",
+      "prov": "Misiones",
+      "pob": 61666,
+      "tasa": 65
+    },
+    {
+      "lon": -59.15921809977453,
+      "lat":   25.76707818164572,
+      "name": "Pirané",
+      "prov": "Formosa",
+      "pob": 69852,
+      "tasa": 140
+    },
+    {
+      "lon": -59.957895622364,
+      "lat":   24.873688554632867,
+      "name": "Patiño",
+      "prov": "Formosa",
+      "pob": 76987,
+      "tasa": 112
+    },
+    {
+      "lon": -61.281394316788784,
+      "lat":   24.02515747856261,
+      "name": "Bermejo",
+      "prov": "Formosa",
+      "pob": 16281,
+      "tasa": 12
+    },
+    {
+      "lon": -58.70971899315627,
+      "lat":   26.958625800597925,
+      "name": "Bermejo",
+      "prov": "Chaco",
+      "pob": 27581,
+      "tasa": 109
+    },
+    {
+      "lon": -59.4879320041494,
+      "lat":   26.378406954287662,
+      "name": "Libertador General San Martín",
+      "prov": "Chaco",
+      "pob": 68805,
+      "tasa": 243
+    },
+    {
+      "lon": -61.337626843152194,
+      "lat":   25.21375138687226,
+      "name": "General Güemes",
+      "prov": "Chaco",
+      "pob": 77464,
+      "tasa": 177
+    },
+    {
+      "lon": -58.661777878310225,
+      "lat":   25.10401466120207,
+      "name": "Pilagás",
+      "prov": "Formosa",
+      "pob": 20540,
+      "tasa": 161
+    },
+    {
+      "lon": -66.31089776554133,
+      "lat":   40.97458797674552,
+      "name": "Valcheta",
+      "prov": "Río Negro",
+      "pob": 8556,
+      "tasa": 245
+    },
+    {
+      "lon": -65.37118707181247,
+      "lat":   40.95290311241642,
+      "name": "San Antonio Oeste",
+      "prov": "Río Negro",
+      "pob": 36787,
+      "tasa": 321
+    },
+    {
+      "lon": -58.56521022362207,
+      "lat":   26.467739769261865,
+      "name": "Laishí",
+      "prov": "Formosa",
+      "pob": 19009,
+      "tasa": 221
+    },
+    {
+      "lon": -67.45750605721284,
+      "lat":   40.925657694844865,
+      "name": "Nueve De Julio",
+      "prov": "Río Negro",
+      "pob": 3334,
+      "tasa": 30
+    },
+    {
+      "lon": -70.40114837199461,
+      "lat":   41.73980527152361,
+      "name": "Ñorquinco",
+      "prov": "Río Negro",
+      "pob": 1430,
+      "tasa": 70
+    },
+    {
+      "lon": -68.90632589491649,
+      "lat":   41.133090915185306,
+      "name": "25 De Mayo",
+      "prov": "Río Negro",
+      "pob": 18917,
+      "tasa": 291
+    },
+    {
+      "lon": -64.93308187645705,
+      "lat":   42.4439677912514,
+      "name": "Biedma",
+      "prov": "Chubut",
+      "pob": 116160,
+      "tasa": 220
+    },
+    {
+      "lon": -67.17690320798559,
+      "lat":   42.43894174220703,
+      "name": "Telsen",
+      "prov": "Chubut",
+      "pob": 1527,
+      "tasa": 0
+    },
+    {
+      "lon": -68.80234724959057,
+      "lat":   42.74908663954483,
+      "name": "Gastre",
+      "prov": "Chubut",
+      "pob": 1368,
+      "tasa": 0
+    },
+    {
+      "lon": -68.48467522355023,
+      "lat":   39.70163662991917,
+      "name": "El Cuy",
+      "prov": "Río Negro",
+      "pob": 6781,
+      "tasa": 88
+    },
+    {
+      "lon": -70.46261690997616,
+      "lat":   40.88743951292454,
+      "name": "Pilcaniyeu",
+      "prov": "Río Negro",
+      "pob": 9356,
+      "tasa": 962
+    },
+    {
+      "lon": -64.6072806906155,
+      "lat":   32.20852781333877,
+      "name": "Calamuchita",
+      "prov": "Córdoba",
+      "pob": 70512,
+      "tasa": 495
+    },
+    {
+      "lon": -63.0550132332095,
+      "lat":   37.196282489353976,
+      "name": "Adolfo Alsina",
+      "prov": "Buenos Aires",
+      "pob": 17483,
+      "tasa": 137
+    },
+    {
+      "lon": -63.09406780049867,
+      "lat":   35.58085803175095,
+      "name": "Rivadavia",
+      "prov": "Buenos Aires",
+      "pob": 17119,
+      "tasa": 514
+    },
+    {
+      "lon": -63.22500993067564,
+      "lat":   36.27118460384422,
+      "name": "Pellegrini",
+      "prov": "Buenos Aires",
+      "pob": 6058,
+      "tasa": 215
+    },
+    {
+      "lon": -63.05700524603296,
+      "lat":   38.074209857699564,
+      "name": "Puan",
+      "prov": "Buenos Aires",
+      "pob": 15054,
+      "tasa": 604
+    },
+    {
+      "lon": -62.74844602810415,
+      "lat":   39.135812639867495,
+      "name": "Villarino",
+      "prov": "Buenos Aires",
+      "pob": 36315,
+      "tasa": 61
+    },
+    {
+      "lon": -63.660040209877174,
+      "lat":   35.68630177459145,
+      "name": "Maracó",
+      "prov": "La Pampa",
+      "pob": 67361,
+      "tasa": 1406
+    },
+    {
+      "lon": -63.66036863829684,
+      "lat":   36.1388413926223,
+      "name": "Quemú Quemú",
+      "prov": "La Pampa",
+      "pob": 9080,
+      "tasa": 1167
+    },
+    {
+      "lon": -63.66052695824611,
+      "lat":   36.58866980045979,
+      "name": "Catriló",
+      "prov": "La Pampa",
+      "pob": 8124,
+      "tasa": 431
+    },
+    {
+      "lon": -63.888386158301834,
+      "lat":   38.679437866159525,
+      "name": "Caleu Caleu",
+      "prov": "La Pampa",
+      "pob": 2768,
+      "tasa": 650
+    },
+    {
+      "lon": -63.775982843315525,
+      "lat":   37.4937573362766,
+      "name": "Guatraché",
+      "prov": "La Pampa",
+      "pob": 8871,
+      "tasa": 271
+    },
+    {
+      "lon": -63.94690964239233,
+      "lat":   37.98691085165659,
+      "name": "Hucal",
+      "prov": "La Pampa",
+      "pob": 7406,
+      "tasa": 1053
+    },
+    {
+      "lon": -62.856708419133945,
+      "lat":   40.19649600805005,
+      "name": "Patagones",
+      "prov": "Buenos Aires",
+      "pob": 32002,
+      "tasa": 206
+    },
+    {
+      "lon": -63.66121290021108,
+      "lat":   35.22974584764971,
+      "name": "Chapaleufú",
+      "prov": "La Pampa",
+      "pob": 13079,
+      "tasa": 1193
+    },
+    {
+      "lon": -54.40451848694839,
+      "lat":   25.875809637235722,
+      "name": "Iguazú",
+      "prov": "Misiones",
+      "pob": 99849,
+      "tasa": 103
+    },
+    {
+      "lon": -61.27350555359771,
+      "lat":   32.70856160953532,
+      "name": "Iriondo",
+      "prov": "Santa Fe",
+      "pob": 72062,
+      "tasa": 920
+    },
+    {
+      "lon": -60.48844576426079,
+      "lat":   30.532766698376623,
+      "name": "San Justo",
+      "prov": "Santa Fe",
+      "pob": 44041,
+      "tasa": 942
+    },
+    {
+      "lon": -61.10928730612147,
+      "lat":   31.317438618896713,
+      "name": "Las Colonias",
+      "prov": "Santa Fe",
+      "pob": 122547,
+      "tasa": 688
+    },
+    {
+      "lon": -68.69044120512828,
+      "lat":   32.06960072121665,
+      "name": "Sarmiento",
+      "prov": "San Juan",
+      "pob": 26910,
+      "tasa": 565
+    },
+    {
+      "lon": -69.2671215144922,
+      "lat":   32.52492059531774,
+      "name": "Las Heras",
+      "prov": "Mendoza",
+      "pob": 235699,
+      "tasa": 433
+    },
+    {
+      "lon": -67.88912405986063,
+      "lat":   32.582580490793816,
+      "name": "Lavalle",
+      "prov": "Mendoza",
+      "pob": 44040,
+      "tasa": 266
+    },
+    {
+      "lon": -69.31351786385517,
+      "lat":   36.15739145449007,
+      "name": "Malargüe",
+      "prov": "Mendoza",
+      "pob": 34642,
+      "tasa": 251
+    },
+    {
+      "lon": -61.048234816145495,
+      "lat":   32.15614891941371,
+      "name": "San Jerónimo",
+      "prov": "Santa Fe",
+      "pob": 89985,
+      "tasa": 547
+    },
+    {
+      "lon": -61.94576355612232,
+      "lat":   33.92607992392452,
+      "name": "General López",
+      "prov": "Santa Fe",
+      "pob": 211950,
+      "tasa": 351
+    },
+    {
+      "lon": -60.710076745547404,
+      "lat":   33.13006143329079,
+      "name": "Rosario",
+      "prov": "Santa Fe",
+      "pob": 1291010,
+      "tasa": 674
+    },
+    {
+      "lon": -60.961179998600926,
+      "lat":   32.94429896101111,
+      "name": "San Lorenzo",
+      "prov": "Santa Fe",
+      "pob": 184609,
+      "tasa": 616
+    },
+    {
+      "lon": -64.40064756262464,
+      "lat":   39.407652731654665,
+      "name": "Pichi Mahuida",
+      "prov": "Río Negro",
+      "pob": 14441,
+      "tasa": 796
+    },
+    {
+      "lon": -63.76552664625148,
+      "lat":   40.791780679525594,
+      "name": "Adolfo Alsina",
+      "prov": "Río Negro",
+      "pob": 65450,
+      "tasa": 361
+    },
+    {
+      "lon": -66.72757080302976,
+      "lat":   54.75145663163182,
+      "name": "Ushuaia",
+      "prov": "Tierra del Fuego",
+      "pob": 77260,
+      "tasa": 563
+    },
+    {
+      "lon": -70.63968029744633,
+      "lat":   45.34055412988438,
+      "name": "Río Senger",
+      "prov": "Chubut",
+      "pob": 6248,
+      "tasa": 496
+    },
+    {
+      "lon": -71.531211364012,
+      "lat":   41.49835000854852,
+      "name": "Bariloche",
+      "prov": "Río Negro",
+      "pob": 163743,
+      "tasa": 1111
+    },
+    {
+      "lon": -60.12645418037025,
+      "lat":   31.056644833191083,
+      "name": "Garay",
+      "prov": "Santa Fe",
+      "pob": 23364,
+      "tasa": 300
+    },
+    {
+      "lon": -59.897930509028484,
+      "lat":   30.106678789824166,
+      "name": "San Javier",
+      "prov": "Santa Fe",
+      "pob": 34075,
+      "tasa": 182
+    },
+    {
+      "lon": -60.413285119534265,
+      "lat":   28.972327592187778,
+      "name": "Vera",
+      "prov": "Santa Fe",
+      "pob": 54902,
+      "tasa": 153
+    },
+    {
+      "lon": -61.657314420688806,
+      "lat":   31.233935169662278,
+      "name": "Castellanos",
+      "prov": "Santa Fe",
+      "pob": 206032,
+      "tasa": 995
+    },
+    {
+      "lon": -61.703949588729984,
+      "lat":   32.612888673724335,
+      "name": "Belgrano",
+      "prov": "Santa Fe",
+      "pob": 51493,
+      "tasa": 553
+    },
+    {
+      "lon": -61.53188026983241,
+      "lat":   33.22344755285559,
+      "name": "Caseros",
+      "prov": "Santa Fe",
+      "pob": 89297,
+      "tasa": 306
+    },
+    {
+      "lon": -61.397765291570686,
+      "lat":   28.850316885810635,
+      "name": "Nueve De Julio",
+      "prov": "Santa Fe",
+      "pob": 33574,
+      "tasa": 530
+    },
+    {
+      "lon": -61.80792812037156,
+      "lat":   32.014719736045315,
+      "name": "San Martín",
+      "prov": "Santa Fe",
+      "pob": 70819,
+      "tasa": 658
+    },
+    {
+      "lon": -59.52679165196189,
+      "lat":   28.672713860686738,
+      "name": "General Obligado",
+      "prov": "Santa Fe",
+      "pob": 199488,
+      "tasa": 175
+    },
+    {
+      "lon": -60.669991473877495,
+      "lat":   31.47716688232603,
+      "name": "Capital",
+      "prov": "Santa Fe",
+      "pob": 583368,
+      "tasa": 557
+    },
+    {
+      "lon": -60.85294032859176,
+      "lat":   33.48691511894112,
+      "name": "Constitución",
+      "prov": "Santa Fe",
+      "pob": 96574,
+      "tasa": 308
+    },
+    {
+      "lon": -67.33965953006538,
+      "lat":   24.643111806580727,
+      "name": "Los Andes",
+      "prov": "Salta",
+      "pob": 6821,
+      "tasa": 117
+    },
+    {
+      "lon": -66.66179200041165,
+      "lat":   23.520328927575637,
+      "name": "Susques",
+      "prov": "Jujuy",
+      "pob": 4127,
+      "tasa": 1381
+    },
+    {
+      "lon": -59.115535439527044,
+      "lat":   27.716255054399458,
+      "name": "San Fernando",
+      "prov": "Chaco",
+      "pob": 442642,
+      "tasa": 373
+    },
+    {
+      "lon": -58.517175181939656,
+      "lat":   27.345828172755507,
+      "name": "San Cosme",
+      "prov": "Corrientes",
+      "pob": 16736,
+      "tasa": 496
+    },
+    {
+      "lon": -66.20825960262678,
+      "lat":   24.140698983028233,
+      "name": "La Poma",
+      "prov": "Salta",
+      "pob": 1773,
+      "tasa": 226
+    },
+    {
+      "lon": -65.19830275394126,
+      "lat":   32.726841705428065,
+      "name": "Chacabuco",
+      "prov": "San Luis",
+      "pob": 23798,
+      "tasa": 437
+    },
+    {
+      "lon": -66.50268680186122,
+      "lat":   33.90087462223343,
+      "name": "Juan Martín De Pueyrredón",
+      "prov": "San Luis",
+      "pob": 204019,
+      "tasa": 0
+    },
+    {
+      "lon": -65.56285593629198,
+      "lat":   33.8904993726275,
+      "name": "General Pedernera",
+      "prov": "San Luis",
+      "pob": 145471,
+      "tasa": 1011
+    },
+    {
+      "lon": -65.70947199747643,
+      "lat":   32.57840144407942,
+      "name": "Libertador Gral. San Martín",
+      "prov": "San Luis",
+      "pob": 4390,
+      "tasa": 615
+    },
+    {
+      "lon": -65.90096727207377,
+      "lat":   33.10669502356658,
+      "name": "Pringles",
+      "prov": "San Luis",
+      "pob": 14315,
+      "tasa": 1160
+    },
+    {
+      "lon": -65.3940325312737,
+      "lat":   32.21657299744832,
+      "name": "Junín",
+      "prov": "San Luis",
+      "pob": 38266,
+      "tasa": 959
+    },
+    {
+      "lon": -65.43668390902204,
+      "lat":   24.563754888086187,
+      "name": "La Caldera",
+      "prov": "Salta",
+      "pob": 10551,
+      "tasa": 540
+    },
+    {
+      "lon": -66.35259152014078,
+      "lat":   29.460441589848976,
+      "name": "Capital",
+      "prov": "La Rioja",
+      "pob": 223101,
+      "tasa": 120
+    },
+    {
+      "lon": -71.25899027043737,
+      "lat":   39.79480605123403,
+      "name": "Huiliches",
+      "prov": "Neuquén",
+      "pob": 17842,
+      "tasa": 527
+    },
+    {
+      "lon": -70.43277934704471,
+      "lat":   39.487541008240775,
+      "name": "Catán Lil",
+      "prov": "Neuquén",
+      "pob": 2896,
+      "tasa": 794
+    },
+    {
+      "lon": -64.91531639990266,
+      "lat":   22.795426988269814,
+      "name": "Iruya",
+      "prov": "Salta",
+      "pob": 5786,
+      "tasa": 156
+    },
+    {
+      "lon": -64.16442711177025,
+      "lat":   23.48210146361744,
+      "name": "Orán",
+      "prov": "Salta",
+      "pob": 162562,
+      "tasa": 82
+    },
+    {
+      "lon": -62.07685856407407,
+      "lat":   23.854779206264972,
+      "name": "Matacos",
+      "prov": "Formosa",
+      "pob": 17156,
+      "tasa": 0
+    },
+    {
+      "lon": -64.27705101239737,
+      "lat":   28.1774528930741,
+      "name": "Silipica",
+      "prov": "Santiago del Estero",
+      "pob": 8000,
+      "tasa": 50
+    },
+    {
+      "lon": -63.83843800048277,
+      "lat":   24.865018222194653,
+      "name": "Anta",
+      "prov": "Salta",
+      "pob": 68925,
+      "tasa": 48
+    },
+    {
+      "lon": -61.960528949006466,
+      "lat":   25.747869077195773,
+      "name": "Almirante Brown",
+      "prov": "Chaco",
+      "pob": 42810,
+      "tasa": 58
+    },
+    {
+      "lon": -62.74661959102891,
+      "lat":   25.94968740469917,
+      "name": "Copo",
+      "prov": "Santiago del Estero",
+      "pob": 38016,
+      "tasa": 24
+    },
+    {
+      "lon": -64.76018532628056,
+      "lat":   27.48782651671629,
+      "name": "Río Hondo",
+      "prov": "Santiago del Estero",
+      "pob": 61166,
+      "tasa": 224
+    },
+    {
+      "lon": -64.7255575367288,
+      "lat":   25.871760614190524,
+      "name": "Rosario De La Frontera",
+      "prov": "Salta",
+      "pob": 31393,
+      "tasa": 475
+    },
+    {
+      "lon": -63.22304070400793,
+      "lat":   30.0327404963057,
+      "name": "Río Seco",
+      "prov": "Córdoba",
+      "pob": 15494,
+      "tasa": 349
+    },
+    {
+      "lon": -67.53164476242883,
+      "lat":   30.69797725979191,
+      "name": "Valle Fértil",
+      "prov": "San Juan",
+      "pob": 8001,
+      "tasa": 350
+    },
+    {
+      "lon": -69.43909048796067,
+      "lat":   29.611775445098058,
+      "name": "Iglesia",
+      "prov": "San Juan",
+      "pob": 12499,
+      "tasa": 696
+    },
+    {
+      "lon": -66.20628983050648,
+      "lat":   39.410077994248766,
+      "name": "Avellaneda",
+      "prov": "Río Negro",
+      "pob": 40349,
+      "tasa": 146
+    },
+    {
+      "lon": -67.55450393223067,
+      "lat":   38.532486765657076,
+      "name": "General Roca",
+      "prov": "Río Negro",
+      "pob": 370245,
+      "tasa": 323
+    },
+    {
+      "lon": -66.71599466034304,
+      "lat":   32.73489556847154,
+      "name": "Belgrano",
+      "prov": "San Luis",
+      "pob": 4281,
+      "tasa": 1051
+    },
+    {
+      "lon": -71.48672059901288,
+      "lat":   40.77437603106433,
+      "name": "Los Lagos",
+      "prov": "Neuquén",
+      "pob": 17647,
+      "tasa": 1598
+    },
+    {
+      "lon": -71.18440783873653,
+      "lat":   40.31416931736476,
+      "name": "Lácar",
+      "prov": "Neuquén",
+      "pob": 37756,
+      "tasa": 1044
+    },
+    {
+      "lon": -70.2815373143818,
+      "lat":   40.052869209785214,
+      "name": "Collón Curá",
+      "prov": "Neuquén",
+      "pob": 4918,
+      "tasa": 183
+    },
+    {
+      "lon": -69.427286140533,
+      "lat":   39.4039527515024,
+      "name": "Picún Leufú",
+      "prov": "Neuquén",
+      "pob": 5282,
+      "tasa": 133
+    },
+    {
+      "lon": -71.0461893698064,
+      "lat":   39.131498205189615,
+      "name": "Aluminé",
+      "prov": "Neuquén",
+      "pob": 11718,
+      "tasa": 649
+    },
+    {
+      "lon": -69.84091184081102,
+      "lat":   38.925221206677826,
+      "name": "Zapala",
+      "prov": "Neuquén",
+      "pob": 40369,
+      "tasa": 919
+    },
+    {
+      "lon": -68.79296392659823,
+      "lat":   38.83255306728524,
+      "name": "Confluencia",
+      "prov": "Neuquén",
+      "pob": 426804,
+      "tasa": 673
+    },
+    {
+      "lon": -70.37318808802306,
+      "lat":   38.569972461358,
+      "name": "Picunches",
+      "prov": "Neuquén",
+      "pob": 8069,
+      "tasa": 2070
+    },
+    {
+      "lon": -69.01287142061561,
+      "lat":   38.09865674254926,
+      "name": "Añelo",
+      "prov": "Neuquén",
+      "pob": 16622,
+      "tasa": 205
+    },
+    {
+      "lon": -70.31416483734759,
+      "lat":   38.06591812233858,
+      "name": "Loncopué",
+      "prov": "Neuquén",
+      "pob": 7858,
+      "tasa": 1336
+    },
+    {
+      "lon": -70.67774977919736,
+      "lat":   37.6378279978569,
+      "name": "Ñorquín",
+      "prov": "Neuquén",
+      "pob": 6031,
+      "tasa": 796
+    },
+    {
+      "lon": -69.40208491636643,
+      "lat":   37.39840721131144,
+      "name": "Pehuenches",
+      "prov": "Neuquén",
+      "pob": 35081,
+      "tasa": 376
+    },
+    {
+      "lon": -70.78368779662452,
+      "lat":   36.85846659168782,
+      "name": "Minas",
+      "prov": "Neuquén",
+      "pob": 7935,
+      "tasa": 1159
+    },
+    {
+      "lon": -70.28630954813065,
+      "lat":   36.88071838926563,
+      "name": "Chos Malal",
+      "prov": "Neuquén",
+      "pob": 17229,
+      "tasa": 876
+    },
+    {
+      "lon": -65.5983057470857,
+      "lat":   27.793758177576418,
+      "name": "La Cocha",
+      "prov": "Tucumán",
+      "pob": 22222,
+      "tasa": 252
+    },
+    {
+      "lon": -65.25557684435026,
+      "lat":   27.71342793312316,
+      "name": "Graneros",
+      "prov": "Tucumán",
+      "pob": 15181,
+      "tasa": 448
+    },
+    {
+      "lon": -65.7831074586673,
+      "lat":   27.606080563978747,
+      "name": "Juan Bautista Alberdi",
+      "prov": "Tucumán",
+      "pob": 35297,
+      "tasa": 405
+    },
+    {
+      "lon": -65.75179078892555,
+      "lat":   27.45038756117838,
+      "name": "Río Chico",
+      "prov": "Tucumán",
+      "pob": 66531,
+      "tasa": 379
+    },
+    {
+      "lon": -65.81130844153267,
+      "lat":   27.269400615710868,
+      "name": "Chicligasta",
+      "prov": "Tucumán",
+      "pob": 94466,
+      "tasa": 509
+    },
+    {
+      "lon": -65.29192982069813,
+      "lat":   27.424297994756223,
+      "name": "Simoca",
+      "prov": "Tucumán",
+      "pob": 34366,
+      "tasa": 480
+    },
+    {
+      "lon": -65.43220194848162,
+      "lat":   26.86160632508939,
+      "name": "Lules",
+      "prov": "Tucumán",
+      "pob": 89673,
+      "tasa": 302
+    },
+    {
+      "lon": -65.64187684622743,
+      "lat":   27.112668018346067,
+      "name": "Monteros",
+      "prov": "Tucumán",
+      "pob": 75346,
+      "tasa": 435
+    },
+    {
+      "lon": -65.08547732750371,
+      "lat":   27.191570627683234,
+      "name": "Leales",
+      "prov": "Tucumán",
+      "pob": 62958,
+      "tasa": 461
+    },
+    {
+      "lon": -65.47879045802682,
+      "lat":   26.975637668931697,
+      "name": "Famaillá",
+      "prov": "Tucumán",
+      "pob": 42167,
+      "tasa": 228
+    },
+    {
+      "lon": -65.337128516851,
+      "lat":   26.78806164874081,
+      "name": "Yerba Buena",
+      "prov": "Tucumán",
+      "pob": 96639,
+      "tasa": 414
+    },
+    {
+      "lon": -64.81971170752287,
+      "lat":   26.53074082762452,
+      "name": "Burruyacú",
+      "prov": "Tucumán",
+      "pob": 45225,
+      "tasa": 451
+    },
+    {
+      "lon": -65.46249603849259,
+      "lat":   26.661266113147363,
+      "name": "Tafí Viejo",
+      "prov": "Tucumán",
+      "pob": 150121,
+      "tasa": 448
+    },
+    {
+      "lon": -65.88836019412523,
+      "lat":   26.594039491299775,
+      "name": "Tafí Del Valle",
+      "prov": "Tucumán",
+      "pob": 17502,
+      "tasa": 857
+    },
+    {
+      "lon": -65.21712275689916,
+      "lat":   26.83320588463199,
+      "name": "Capital",
+      "prov": "Tucumán",
+      "pob": 605767,
+      "tasa": 295
+    },
+    {
+      "lon": -64.97512338772138,
+      "lat":   26.918307194551378,
+      "name": "Cruz Alta",
+      "prov": "Tucumán",
+      "pob": 219826,
+      "tasa": 365
+    },
+    {
+      "lon": -58.443362041972186,
+      "lat":   34.61715918870793,
+      "name": "Comuna 06",
+      "prov": "CABA",
+      "pob": 185456,
+      "tasa": 862
+    },
+    {
+      "lon": -65.40566557437423,
+      "lat":   26.343026731215865,
+      "name": "Trancas",
+      "prov": "Tucumán",
+      "pob": 21369,
+      "tasa": 416
+    },
+    {
+      "lon": -69.00286176987697,
+      "lat":   45.34463507523392,
+      "name": "Sarmiento",
+      "prov": "Chubut",
+      "pob": 15055,
+      "tasa": 810
+    },
+    {
+      "lon": -61.36044036203998,
+      "lat":   30.2308508422652,
+      "name": "San Cristóbal",
+      "prov": "Santa Fe",
+      "pob": 77228,
+      "tasa": 912
+    },
+    {
+      "lon": -70.71202144404876,
+      "lat":   42.366341371510046,
+      "name": "Cushamen",
+      "prov": "Chubut",
+      "pob": 24538,
+      "tasa": 571
+    },
+    {
+      "lon": -70.63137510317733,
+      "lat":   46.83426146195986,
+      "name": "Lago Buenos Aires",
+      "prov": "Santa Cruz",
+      "pob": 11767,
+      "tasa": 501
+    },
+    {
+      "lon": -67.68916501919335,
+      "lat":   36.40055230748085,
+      "name": "Chical-co",
+      "prov": "La Pampa",
+      "pob": 1519,
+      "tasa": 1448
+    },
+    {
+      "lon": -67.59504341221782,
+      "lat":   37.43936902104146,
+      "name": "Puelén",
+      "prov": "La Pampa",
+      "pob": 12157,
+      "tasa": 1152
+    },
+    {
+      "lon": -58.37167419356919,
+      "lat":   34.606224932691006,
+      "name": "Comuna 01",
+      "prov": "CABA",
+      "pob": 256405,
+      "tasa": 876
+    },
+    {
+      "lon": -59.37953785451052,
+      "lat":   51.74077596530333,
+      "name": "Antártida, Malvinas E Islas",
+      "prov": "Tierra del Fuego",
+      "pob": 283,
+      "tasa": 0
+    },
+    {
+      "lon": -58.394638311022305,
+      "lat":   34.58637308739847,
+      "name": "Comuna 02",
+      "prov": "CABA",
+      "pob": 149430,
+      "tasa": 875
+    },
+    {
+      "lon": -58.40217306498347,
+      "lat":   34.61406314558716,
+      "name": "Comuna 03",
+      "prov": "CABA",
+      "pob": 193276,
+      "tasa": 1002
+    },
+    {
+      "lon": -58.38874321605138,
+      "lat":   34.64198332448088,
+      "name": "Comuna 04",
+      "prov": "CABA",
+      "pob": 240100,
+      "tasa": 1163
+    },
+    {
+      "lon": -58.42072571199343,
+      "lat":   34.615669412213826,
+      "name": "Comuna 05",
+      "prov": "CABA",
+      "pob": 187518,
+      "tasa": 864
+    },
+    {
+      "lon": -58.451140169161675,
+      "lat":   34.63657979531087,
+      "name": "Comuna 07",
+      "prov": "CABA",
+      "pob": 241861,
+      "tasa": 803
+    },
+    {
+      "lon": -58.46189547734144,
+      "lat":   34.67423173217088,
+      "name": "Comuna 08",
+      "prov": "CABA",
+      "pob": 228953,
+      "tasa": 940
+    },
+    {
+      "lon": -58.499711069132545,
+      "lat":   34.65185957114837,
+      "name": "Comuna 09",
+      "prov": "CABA",
+      "pob": 171264,
+      "tasa": 845
+    },
+    {
+      "lon": -64.19842702319727,
+      "lat":   27.433202190969602,
+      "name": "Banda",
+      "prov": "Santiago del Estero",
+      "pob": 163370,
+      "tasa": 274
+    },
+    {
+      "lon": -58.50259464383025,
+      "lat":   34.62791439256041,
+      "name": "Comuna 10",
+      "prov": "CABA",
+      "pob": 170592,
+      "tasa": 783
+    },
+    {
+      "lon": -58.49687873630964,
+      "lat":   34.606215446262034,
+      "name": "Comuna 11",
+      "prov": "CABA",
+      "pob": 190076,
+      "tasa": 805
+    },
+    {
+      "lon": -58.489741222944836,
+      "lat":   34.56618387699603,
+      "name": "Comuna 12",
+      "prov": "CABA",
+      "pob": 214777,
+      "tasa": 727
+    },
+    {
+      "lon": -63.903279576903515,
+      "lat":   27.85337160721501,
+      "name": "Robles",
+      "prov": "Santiago del Estero",
+      "pob": 50933,
+      "tasa": 88
+    },
+    {
+      "lon": -64.4386638564146,
+      "lat":   27.876055414621078,
+      "name": "Capital",
+      "prov": "Santiago del Estero",
+      "pob": 298076,
+      "tasa": 506
+    },
+    {
+      "lon": -58.45348250728923,
+      "lat":   34.55453214576918,
+      "name": "Comuna 13",
+      "prov": "CABA",
+      "pob": 236358,
+      "tasa": 740
+    },
+    {
+      "lon": -58.421555400357484,
+      "lat":   34.57394770840483,
+      "name": "Comuna 14",
+      "prov": "CABA",
+      "pob": 227115,
+      "tasa": 833
+    },
+    {
+      "lon": -58.461796721503895,
+      "lat":   34.59203916373399,
+      "name": "Comuna 15",
+      "prov": "CABA",
+      "pob": 182465,
+      "tasa": 977
+    },
+    {
+      "lon": -65.70707775478928,
+      "lat":   28.598403399072364,
+      "name": "Valle Viejo",
+      "prov": "Catamarca",
+      "pob": 31788,
+      "tasa": 371
+    },
+    {
+      "lon": -65.7307503992252,
+      "lat":   28.33236078657692,
+      "name": "Fray Mamerto Esquiú",
+      "prov": "Catamarca",
+      "pob": 13614,
+      "tasa": 279
+    },
+    {
+      "lon": -70.56191848530123,
+      "lat":   51.41361556251922,
+      "name": "Güer Aike",
+      "prov": "Santa Cruz",
+      "pob": 139354,
+      "tasa": 912
+    },
+    {
+      "lon": -63.81890969937265,
+      "lat":   28.19180985896369,
+      "name": "San Martín",
+      "prov": "Santiago del Estero",
+      "pob": 10917,
+      "tasa": 27
+    },
+    {
+      "lon": -62.799704154925955,
+      "lat":   29.47987298408438,
+      "name": "Mitre",
+      "prov": "Santiago del Estero",
+      "pob": 2026,
+      "tasa": 197
+    },
+    {
+      "lon": -63.430093074494096,
+      "lat":   28.09965707942145,
+      "name": "Sarmiento",
+      "prov": "Santiago del Estero",
+      "pob": 4772,
+      "tasa": 42
+    },
+    {
+      "lon": -63.89893167443209,
+      "lat":   28.672453950436022,
+      "name": "Atamisqui",
+      "prov": "Santiago del Estero",
+      "pob": 12619,
+      "tasa": 238
+    },
+    {
+      "lon": -64.31655137972017,
+      "lat":   28.600143346560504,
+      "name": "Loreto",
+      "prov": "Santiago del Estero",
+      "pob": 23815,
+      "tasa": 134
+    },
+    {
+      "lon": -64.86871012011622,
+      "lat":   27.984468087827675,
+      "name": "Guasayán",
+      "prov": "Santiago del Estero",
+      "pob": 7967,
+      "tasa": 75
+    },
+    {
+      "lon": -64.29974233770358,
+      "lat":   26.93047748397854,
+      "name": "Jiménez",
+      "prov": "Santiago del Estero",
+      "pob": 16144,
+      "tasa": 99
+    },
+    {
+      "lon": -63.334910496053936,
+      "lat":   29.39022016759975,
+      "name": "Quebrachos",
+      "prov": "Santiago del Estero",
+      "pob": 10136,
+      "tasa": 109
+    },
+    {
+      "lon": -62.21398900852892,
+      "lat":   29.087044192451113,
+      "name": "Belgrano",
+      "prov": "Santiago del Estero",
+      "pob": 11144,
+      "tasa": 45
+    },
+    {
+      "lon": -62.470052749669044,
+      "lat":   29.31397741483388,
+      "name": "Aguirre",
+      "prov": "Santiago del Estero",
+      "pob": 8500,
+      "tasa": 200
+    },
+    {
+      "lon": -69.09770951924634,
+      "lat":   34.075412274045334,
+      "name": "San Carlos",
+      "prov": "Mendoza",
+      "pob": 39343,
+      "tasa": 318
+    },
+    {
+      "lon": -57.90462412596061,
+      "lat":   35.61823555436922,
+      "name": "Chascomús",
+      "prov": "Buenos Aires",
+      "pob": 46754,
+      "tasa": 659
+    }
+  ]
+}
